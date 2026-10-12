@@ -226,7 +226,7 @@ Shared building blocks. Compose these with any domain skill above.
 | Skill | What it does |
 | --- | --- |
 | [**get-started**](capability/get-started/SKILL.md) | Onboard a brand-new or empty workspace from zero to the user's own data in the chat — anchor on stated intent, route template-or-scratch, script the guided credential round-trip, build + run the first dataflow, then offer a refresh schedule. |
-| [**create-dataflow**](capability/create-dataflow/SKILL.md) | Configure a Coupler.io dataflow end to end — pick an integration, attach a credential, wire source → destination, and trigger a run. |
+| [**create-dataflow**](capability/create-dataflow/SKILL.md) | Configure a Coupler.io dataflow end to end — pick an integration, attach a credential, wire source → destination, test it with a preview run, then offer the full run. |
 | [**google-ads-custom-gaql**](capability/google-ads-custom-gaql/SKILL.md) | Build a Custom GAQL source when no packaged Google Ads report type carries the field — and name the packaged type when one does. Covers resource choice, date macros, and the raw column names and micros that come back. |
 | [**generate-data-set-context**](capability/generate-data-set-context/SKILL.md) | Produce an AI-readable description for a dataset so future sessions inherit its schema context. |
 | [**refine-prompt**](capability/refine-prompt/SKILL.md) | Sharpen a vague or underspecified analytics request into a detailed, actionable prompt — filling in time period, metrics, data sources, and output format — before analysis. |
@@ -375,7 +375,7 @@ These are the tools the Coupler.io MCP server exposes. Skills use them automatic
 
 | Tool | Description |
 | --- | --- |
-| `run-dataflow` | Kick off a refresh from the source. |
+| `run-dataflow` | Run a dataflow: `preview` samples the sources to check the setup and resolve schemas; `full` refreshes all data. |
 | `update-dataset` | Save a markdown description on a dataset so future sessions inherit it. |
 
 > **Deprecated:** `list-dataflows` — replaced by `list-datasets`.
