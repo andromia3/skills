@@ -144,9 +144,9 @@ If any step fails, report the error clearly. Do not proceed to the next step on 
 Test the configuration with a preview run before anyone waits on a full one. A preview samples each source quickly and writes nothing to the destination, so run it without asking.
 
 1. Call `run-dataflow` with `run_mode: "preview"`.
-2. Call `get-schema` for each dataset in the dataflow (find them with `list-datasets` filtered by the dataflow). If the schema is still pending, call it again until columns come back.
-3. Check the columns against Step 1: the requested entity, and every field the user named. A missing field usually means a different entity, report type or field selection — fix it with `update-dataflow-source` and preview again.
-4. If `get-schema` returns an error from the run, fix the parameter it names and preview again. After three failed previews, stop and show the user the error.
+2. Call `get-schema` for each dataset in the dataflow (find them with `list-datasets` filtered by the dataflow). If the schema is still pending, check again up to 5 times. If it's still pending, tell the user the preview is running and continue on their next message.
+3. Check the columns against Step 1: the requested entity, and every field the user named. A missing field usually means a different entity, report type or field selection — fix it with `update-dataflow-source` and preview again. If the parameter isn't in `get-integration`, tell the user to change it in Coupler.io.
+4. If `get-schema` returns an error from the run and it points to a parameter you can set, fix it and preview again. Otherwise show the user the error and what it means. After three failed previews, stop and show the user the error.
 
 If the user wants to combine the sources with a SQL dataset (`create-dataset`), build it after this step, using the column names `get-schema` returned.
 
