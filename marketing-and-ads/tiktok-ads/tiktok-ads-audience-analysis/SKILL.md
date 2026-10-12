@@ -7,6 +7,8 @@ description: >
   says "audience". This is the who-converts read: which segments earn their spend and whether
   targeting is buying anything the creative was not already buying. TikTok Ads only.
 metadata:
+  title: "TikTok Ads Audience Targeting Analysis"
+  short_description: "Shows which TikTok audiences bring results and whether your targeting does better than simply going broad."
   version: 1.0.0
   category: marketing-and-ads
   sources:

@@ -7,9 +7,10 @@ description: >
   "review". Also use when someone wants to know what changed in the account and why, or needs the
   baseline read before deciding anything else. Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Performance Report"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The Microsoft Ads baseline read — what the account did, why it changed, the demand it is missing, and what to do, with a number on each."
+  short_description: "Shows what changed in your Microsoft Ads account, why it changed, and what to do about it next."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

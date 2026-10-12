@@ -7,9 +7,10 @@ description: >
   "is it my Amazon listing or my ads" — even when the user never says "ASIN". Covers advertised
   products, halo sales and listing problems the ads can't fix. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Product and ASIN Performance"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which advertised Amazon products earn their spend, which spend without selling, what shoppers buy instead, and when it's the listing."
+  short_description: "Shows which advertised Amazon products earn back their ad spend and which ones spend without selling."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

@@ -8,9 +8,10 @@ description: >
   needs to know whether adding budget to a Microsoft Ads campaign would do anything at all.
   Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Budget Pacing"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Where Microsoft Ads spend lands by month end, which campaigns are capped by budget, and whether more money would buy anything."
+  short_description: "Shows where your Microsoft Ads spend will land by month end and which campaigns would get more conversions with more budget."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

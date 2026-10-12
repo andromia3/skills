@@ -11,6 +11,8 @@ description: >
   acting on and what the action is. For pages losing traffic they used to have, use
   content-decay-detector. Google Search Console only.
 metadata:
+  title: "Google Search Console Keyword Opportunities"
+  short_description: "Finds search queries sitting just off page one and pages that get seen but not clicked, so you know what to optimise next."
   version: 1.0.0
   category: marketing-and-ads
   sources:

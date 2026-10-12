@@ -6,6 +6,8 @@ description: >
   "what do I tell the client", or asks how to present a target they missed — even when they never say
   the word "report". For agencies and in-house teams reporting upward. TikTok Ads only.
 metadata:
+  title: "TikTok Ads Client Report"
+  short_description: "Writes your monthly TikTok ads report for a client, measured against the targets you agreed, with misses explained and next month's plan."
   version: 1.0.0
   category: marketing-and-ads
   sources:

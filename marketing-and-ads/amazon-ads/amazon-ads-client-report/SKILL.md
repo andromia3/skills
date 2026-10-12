@@ -7,9 +7,10 @@ description: >
   ACOS target they missed — even when they never say the word "report". For agencies and in-house
   teams reporting upward. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Client Report"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The monthly Amazon Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached."
+  short_description: "Writes your monthly Amazon Ads report for a client, measured against the targets you agreed, with misses explained and next month's plan."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

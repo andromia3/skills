@@ -7,6 +7,8 @@ description: >
   never says "placement". Covers where and when the ads are shown, and what each of those is worth.
   Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Placement, Location and Device Breakdown"
+  short_description: "Shows which Meta placements, countries and devices bring results, and which ones to switch off."
   version: 1.0.0
   category: marketing-and-ads
   sources:

@@ -2,6 +2,8 @@
 name: create-dataflow
 description: "Use this skill when the user wants to create a new dataflow, set up a new data import, connect a new data source to a destination, pull data from an integration into Google Sheets or BigQuery or another destination, or configure a source-to-destination data pipeline. Triggers include: 'import my HubSpot data', 'set up a Stripe export', 'create a pipeline from X to Y', 'I want to pull data from [source]', 'create a new dataflow', 'connect [source] to [destination]', 'set up a data flow for [source]'."
 metadata:
+  title: "Create a Data Flow"
+  short_description: "Sets up a new data flow from any source to Google Sheets, BigQuery or your AI tool, through a short conversation."
   category: capability
   sources: []
 ---

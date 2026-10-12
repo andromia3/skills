@@ -7,9 +7,10 @@ description: >
   user never says "placement". Covers on-LinkedIn against off-LinkedIn delivery, placements and
   devices, and what each is worth. LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Ads Placement and Device Breakdown"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "What LinkedIn Ads spend earns on LinkedIn against the Audience Network, by placement and device, with what to switch off."
+  short_description: "Shows whether your LinkedIn ads do better on LinkedIn itself or the Audience Network, by device, and what to switch off."
   sources:
     - LinkedIn Ads
 ---

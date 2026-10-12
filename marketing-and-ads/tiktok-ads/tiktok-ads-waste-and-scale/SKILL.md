@@ -7,6 +7,8 @@ description: >
   "scale". Also use when someone wants a budget-neutral reallocation proposal for the account.
   TikTok Ads only.
 metadata:
+  title: "TikTok Ads Wasted Spend and Scaling"
+  short_description: "Finds the TikTok campaigns and ad groups spending without results and shows where to move that money instead."
   version: 1.0.0
   category: marketing-and-ads
   sources:

@@ -7,6 +7,8 @@ description: >
   they never say the word "report". For agencies and in-house teams reporting upward.
   Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Client Report"
+  short_description: "Writes your monthly Meta ads report for a client, measured against the targets you agreed, with misses explained and next month's plan."
   version: 1.0.0
   category: marketing-and-ads
   sources:

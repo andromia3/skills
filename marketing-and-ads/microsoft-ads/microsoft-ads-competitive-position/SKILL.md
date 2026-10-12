@@ -8,9 +8,10 @@ description: >
   "competition". This is the account's own position in the auction — share won, top-of-page, click
   share — not a list of who it's up against. Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Impression Share and Auction Insights"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The Microsoft Ads account's position in the auction — share won, lost to budget or rank, top of page, click share — and where to defend."
+  short_description: "Shows how much of the Bing auction you win, where you lose to budget or ad rank, and which campaigns to defend."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

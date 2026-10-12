@@ -7,6 +7,8 @@ description: >
   Also use when someone needs to know whether adding budget to a campaign would do anything at all.
   Google Ads only.
 metadata:
+  title: "Google Ads Budget Pacing"
+  short_description: "Shows where your Google Ads spend will land by month end and which campaigns would get more conversions with more budget."
   version: 2.0.0
   category: marketing-and-ads
   sources:

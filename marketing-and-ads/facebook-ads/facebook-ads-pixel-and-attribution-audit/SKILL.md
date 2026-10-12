@@ -7,6 +7,8 @@ description: >
   whenever someone doubts the numbers, even without the word "audit". Run before trusting any cost
   or return conclusion about the account. Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Conversion Tracking and Pixel Audit"
+  short_description: "Checks whether you can trust Meta's conversion numbers before you move budget, including double counting and spend with no tracking."
   version: 1.0.0
   category: marketing-and-ads
   sources:

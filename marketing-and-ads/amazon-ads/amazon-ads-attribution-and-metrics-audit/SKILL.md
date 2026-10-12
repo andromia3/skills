@@ -7,9 +7,10 @@ description: >
   Amazon sales keep changing" — and whenever someone doubts their Amazon Ads numbers, even without
   the word "audit". Run before trusting any ACOS or ROAS comparison. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Attribution and Metrics Audit"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Whether Amazon Ads sales and ACOS are comparable and trustworthy — windows, halo and views, currency, restatement, ad share of total sales."
+  short_description: "Checks whether your Amazon Ads sales and ACOS can be trusted and compared before you use them to move budget."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

@@ -7,6 +7,8 @@ description: >
   "inventory". Use when the decision is what to order and by when, or whether a sales fall is a
   stock problem rather than a demand problem. Shopify only.
 metadata:
+  title: "Shopify Inventory Report and Stockout Forecast"
+  short_description: "Shows what in your Shopify store will sell out, when you need to reorder, and how much cash is sitting in dead stock."
   version: 1.0.0
   category: ecommerce
   sources:

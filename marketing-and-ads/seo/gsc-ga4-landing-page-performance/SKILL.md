@@ -11,6 +11,8 @@ description: >
   gsc-search-opportunity-finder; for AI-referral traffic use ai-traffic-vs-organic-report. Needs GA4
   and Search Console.
 metadata:
+  title: "SEO Landing Page Performance (Search Console + GA4)"
+  short_description: "Shows which landing pages bring Google search traffic and whether that traffic converts once it lands."
   version: 1.0.0
   category: marketing-and-ads
   sources:

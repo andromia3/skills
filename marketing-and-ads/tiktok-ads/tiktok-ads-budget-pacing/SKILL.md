@@ -6,6 +6,8 @@ description: >
   ad group spend", or a mid-month spend check — even when the user never says "pacing". Also use when
   someone needs to know whether adding budget to an ad group would do anything at all. TikTok Ads only.
 metadata:
+  title: "TikTok Ads Budget Pacing"
+  short_description: "Shows where your TikTok ad spend will land by month end and which ad groups would get more results with more budget."
   version: 1.0.0
   category: marketing-and-ads
   sources:

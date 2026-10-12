@@ -6,6 +6,8 @@ description: >
   weekly or monthly account check — even when the user never says "review". Also use when someone
   wants the baseline read before deciding anything else in the account. TikTok Ads only.
 metadata:
+  title: "TikTok Ads Performance Report"
+  short_description: "Shows what changed in your TikTok ads, why your cost per result moved, and what to do about it next."
   version: 1.0.0
   category: marketing-and-ads
   sources:

@@ -11,6 +11,8 @@ description: >
   is-it-real-demand view: whether search growth is new reach or just people who already know you.
   For the full opportunity list use gsc-search-opportunity-finder. Google Search Console only.
 metadata:
+  title: "Branded vs Non-Branded Search Traffic"
+  short_description: "Splits your Google search traffic into people searching your brand and people finding you for the first time, and shows which is growing."
   version: 1.0.0
   category: marketing-and-ads
   sources:

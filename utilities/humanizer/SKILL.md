@@ -8,6 +8,8 @@ description: >
   AI-sounding language. Also activate after generating any written content when
   the user has asked for natural or human-sounding output.
 metadata:
+  title: "Humanizer: Remove AI Writing Patterns"
+  short_description: "Strips AI writing patterns from any draft, like blog posts, emails and docs, and puts a human voice back in."
   version: 0.1.0
   category: utilities
   sources: []

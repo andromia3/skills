@@ -7,6 +7,8 @@ description: >
   "waste" or "scale". Also use when someone wants a budget-neutral reallocation proposal for the
   account. Google Ads only.
 metadata:
+  title: "Google Ads Wasted Spend and Scaling"
+  short_description: "Finds Google Ads search terms that spend without converting, builds your negative keyword list, and shows where to move the money."
   version: 2.0.0
   category: marketing-and-ads
   sources:

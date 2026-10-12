@@ -7,6 +7,8 @@ description: >
   user only says "Shop ads" or "my TikTok black box". TikTok Ads only, and only for accounts running
   TikTok Shop.
 metadata:
+  title: "TikTok Shop and GMV Max Review"
+  short_description: "Shows what GMV Max and your TikTok Shop ads bring in, which products sell, and whether GMV Max beats running campaigns yourself."
   version: 1.0.0
   category: marketing-and-ads
   sources:

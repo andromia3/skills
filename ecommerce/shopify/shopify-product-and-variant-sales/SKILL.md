@@ -7,6 +7,8 @@ description: >
   decision is what to reorder, drop, promote or mark down, or when a store-level move needs tracing
   to the products behind it. Shopify only.
 metadata:
+  title: "Shopify Product and Variant Performance"
+  short_description: "Shows which products and variants in your store sell, which make money, and which to reorder, drop or mark down."
   version: 1.0.0
   category: ecommerce
   sources:

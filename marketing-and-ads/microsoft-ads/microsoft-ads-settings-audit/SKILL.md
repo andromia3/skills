@@ -9,9 +9,10 @@ description: >
   setting, bid strategies, Google Import and change history, each priced in the spend flowing
   through it. Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Account Settings Audit"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Prices every Microsoft Ads setting that costs money — syndication, location intent, audience setting, bid strategies, Google Import overwrites."
+  short_description: "Finds the Microsoft Ads settings quietly wasting money, like search partners and settings carried over from Google, and what each costs."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

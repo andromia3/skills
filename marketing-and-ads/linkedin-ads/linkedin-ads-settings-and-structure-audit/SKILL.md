@@ -9,9 +9,10 @@ description: >
   overlapping campaigns and creative rotation, each priced in the spend flowing through it. LinkedIn
   Ads only.
 metadata:
+  title: "LinkedIn Ads Account Settings and Structure Audit"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Prices every LinkedIn Ads setting and structural choice costing money — objectives, bids, Audience Network, expansion, overlapping campaigns."
+  short_description: "Finds the LinkedIn Ads settings and campaign setups wasting money, and shows what each one is costing you."
   sources:
     - LinkedIn Ads
 ---

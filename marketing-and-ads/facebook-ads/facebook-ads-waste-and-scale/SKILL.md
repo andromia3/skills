@@ -6,6 +6,8 @@ description: >
   does the money go" — even without the words "waste" or "scale". Also use when someone wants a
   budget-neutral reallocation proposal for the account. Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Wasted Spend and Scaling"
+  short_description: "Finds the Meta campaigns and ad sets spending without results and shows where to move that money instead."
   version: 1.0.0
   category: marketing-and-ads
   sources:

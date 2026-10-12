@@ -7,11 +7,10 @@ description: >
   when the user never says "performance". Use when the decision is whether store revenue moved and
   which of orders, order size or returns moved it. Shopify only.
 metadata:
+  title: "Shopify Sales Report"
   version: 1.1.0
   category: ecommerce
-  short_description: >
-    The store's baseline trading read — sales ladder, orders, AOV, refunds vs returns, new vs
-    returning — and which of the three drivers moved revenue.
+  short_description: "Shows how your Shopify store did and whether a change in revenue came from orders, order value or refunds."
   sources:
     - Shopify
 ---

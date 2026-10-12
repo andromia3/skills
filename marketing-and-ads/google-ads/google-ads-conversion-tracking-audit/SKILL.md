@@ -7,6 +7,8 @@ description: >
   even without the word "audit". Run before trusting any cost or return conclusion about the
   account. Google Ads only.
 metadata:
+  title: "Google Ads Conversion Tracking Audit"
+  short_description: "Checks whether you can trust your Google Ads conversion numbers before you move budget, including double counting and untracked spend."
   version: 2.0.0
   category: marketing-and-ads
   sources:

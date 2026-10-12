@@ -7,6 +7,8 @@ description: >
   someone needs to know whether adding budget to an ad set would do anything at all.
   Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Budget Pacing"
+  short_description: "Shows where your Meta ad spend will land by month end and which ad sets would get more results with more budget."
   version: 1.0.0
   category: marketing-and-ads
   sources:

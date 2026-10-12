@@ -7,6 +7,8 @@ description: >
   never says "structure". Covers how the account is organised and what that costs it in learning.
   Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Account Structure and Learning Phase Review"
+  short_description: "Shows why your Meta ad sets are stuck in the learning phase and which ones to merge so they can get out of it."
   version: 1.0.0
   category: marketing-and-ads
   sources:

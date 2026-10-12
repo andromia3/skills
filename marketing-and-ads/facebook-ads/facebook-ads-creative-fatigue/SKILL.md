@@ -7,6 +7,8 @@ description: >
   read; for which creative wins in the first place, use the creative analysis skill instead.
   Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Creative Fatigue"
+  short_description: "Shows which Meta ads are wearing out, how long each one has left, and how many new ads you need each month."
   version: 1.0.0
   category: marketing-and-ads
   sources:

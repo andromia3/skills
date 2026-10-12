@@ -8,9 +8,10 @@ description: >
   "audit". Run before trusting any cost or return conclusion about the account. Microsoft Ads (Bing)
   only.
 metadata:
+  title: "Microsoft Bing Ads Conversion Tracking Audit"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Whether Microsoft Ads conversions can be trusted — goals counting, double counts, untracked spend, dated breaks — before anyone moves money."
+  short_description: "Checks whether you can trust your Microsoft Ads conversion numbers before you move budget, including double counting and untracked spend."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

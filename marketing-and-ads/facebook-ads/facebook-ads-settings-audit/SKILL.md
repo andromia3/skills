@@ -8,6 +8,8 @@ description: >
   expansion toggles, attribution setting and delivery issues, each priced in the spend flowing
   through it. Most of these default in Meta's favour. Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Account Settings Audit"
+  short_description: "Finds the Meta ads settings quietly wasting money, like the wrong optimisation goal or Advantage+ toggles, and shows what each one costs."
   version: 1.0.0
   category: marketing-and-ads
   sources:

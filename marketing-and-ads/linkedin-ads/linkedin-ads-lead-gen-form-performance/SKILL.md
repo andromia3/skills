@@ -7,9 +7,10 @@ description: >
   seniority" — even when the user only says "LinkedIn leads". Covers lead cost, form completion and
   who the leads are from their own form answers. LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Lead Gen Form Performance"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which LinkedIn lead gen forms earn their leads — cost per lead, form completion, and who the leads are from their own answers, never as individuals."
+  short_description: "Shows which LinkedIn lead gen forms bring good leads at a fair cost and where people drop off before submitting."
   sources:
     - LinkedIn Ads
 ---

@@ -2,6 +2,8 @@
 name: ecom-analytics
 description: Use this skill when the user wants to analyze e-commerce performance, review funnel conversion, investigate AOV or repeat-purchase trends, build an ecom report, check sales velocity, understand customer cohorts and retention, or answer questions about their store's sales data. Triggers include 'how is my store performing', 'what's my conversion rate', 'cart abandonment', 'AOV trend', 'repeat purchase rate', 'why did revenue drop', 'cohort retention', 'top products', 'new vs returning customer revenue', 'lifetime value', 'pull my Shopify numbers', 'ecom report'.
 metadata:
+  title: "Ecommerce Analytics"
+  short_description: "Puts your store sales next to sessions, ad spend and email to show blended ROAS and conversion rate, on any store platform."
   category: ecommerce
   sources:
     - Shopify

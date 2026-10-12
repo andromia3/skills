@@ -8,9 +8,10 @@ description: >
   Shopping" or "product ads". Microsoft Ads (Bing) only, for accounts running Shopping or product
   ads.
 metadata:
+  title: "Microsoft Bing Shopping Ads Product Performance"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which products Microsoft Shopping makes money on, which spend without selling or never serve, and how to restructure the product groups."
+  short_description: "Shows which products make money in Microsoft Shopping, which ones spend without selling, and how to regroup them."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

@@ -11,6 +11,8 @@ description: >
   Important: this measures traffic AI engines already send you, not whether you appear in their
   answers — citation data isn't in Coupler's GA4 or GSC connectors. GA4 only.
 metadata:
+  title: "AI Traffic vs Organic Search Report"
+  short_description: "Shows how much traffic ChatGPT, Perplexity and Gemini send your site and how it compares with Google organic search."
   version: 1.0.0
   category: marketing-and-ads
   sources:

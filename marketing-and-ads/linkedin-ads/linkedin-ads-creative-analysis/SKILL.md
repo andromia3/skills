@@ -8,9 +8,10 @@ description: >
   read; for which winning LinkedIn ads are wearing out, use the fatigue skill instead. LinkedIn Ads
   only.
 metadata:
+  title: "LinkedIn Ads Creative Performance Analysis"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which LinkedIn Ads creatives win within their own format, what winners share, and a brief for the next round."
+  short_description: "Shows which LinkedIn ads win within each format, what the winners have in common, and what to make next."
   sources:
     - LinkedIn Ads
 ---

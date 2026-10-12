@@ -7,9 +7,10 @@ description: >
   present a Microsoft Ads target they missed — even when they never say the word "report". For
   agencies and in-house teams reporting upward. Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Client Report"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The monthly Microsoft Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached."
+  short_description: "Writes your monthly Microsoft Ads report for a client, measured against the targets you agreed, with misses explained and next month's plan."
   sources:
     - Microsoft Ads (Bing Ads)
 ---
