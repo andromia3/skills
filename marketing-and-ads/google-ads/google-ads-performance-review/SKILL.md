@@ -7,6 +7,8 @@ description: >
   wants to know what changed in the account and why, or needs the baseline read before deciding
   anything else. Google Ads only.
 metadata:
+  title: "Google Ads Performance Report"
+  short_description: "Shows what changed in your Google Ads account, why it changed, and what to do about it next."
   version: 2.0.0
   category: marketing-and-ads
   sources:

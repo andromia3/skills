@@ -7,6 +7,8 @@ description: >
   says "fatigue". This is the how-long-has-it-left read and the production-cadence number; for which
   videos win in the first place, use the creative analysis skill. TikTok Ads only.
 metadata:
+  title: "TikTok Ads Creative Fatigue and Refresh Cadence"
+  short_description: "Shows which TikTok videos are wearing out, how long each one has left, and how many new videos to shoot each month."
   version: 1.0.0
   category: marketing-and-ads
   sources:

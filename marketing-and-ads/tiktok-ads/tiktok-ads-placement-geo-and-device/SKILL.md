@@ -7,6 +7,8 @@ description: >
   "placement". Covers where and when the ads are shown, and what each of those is worth.
   TikTok Ads only.
 metadata:
+  title: "TikTok Ads Placement, Location and Device Breakdown"
+  short_description: "Shows which TikTok placements, countries and devices bring results, and which ones to switch off."
   version: 1.0.0
   category: marketing-and-ads
   sources:

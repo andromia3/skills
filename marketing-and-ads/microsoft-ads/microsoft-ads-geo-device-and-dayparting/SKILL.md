@@ -8,9 +8,10 @@ description: >
   where, on what device and when the ads are shown, and what each is worth. Microsoft Ads (Bing)
   only.
 metadata:
+  title: "Microsoft Bing Ads Location, Device and Dayparting"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Where, on what device and at what hour Microsoft Ads spend earns — share of spend against share of results, with adjustments sized."
+  short_description: "Shows which locations, devices and hours bring your Microsoft Ads results, and how to adjust your bids for each."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

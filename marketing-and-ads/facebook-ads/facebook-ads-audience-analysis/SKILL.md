@@ -7,6 +7,8 @@ description: >
   never says "audience". This is the targeting read: which audiences earn their spend and which are
   paying for the same people twice. Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Audience Targeting Analysis"
+  short_description: "Shows which Meta audiences bring results and which ones are paying to reach the same people twice."
   version: 1.0.0
   category: marketing-and-ads
   sources:

@@ -8,6 +8,8 @@ description: >
   ad efficiency, budget pacing, brand vs non-brand, ad fatigue), use the ppc-analytics
   skill instead — this skill owns the cross-channel view.
 metadata:
+  title: "Marketing Performance Analytics"
+  short_description: "Shows which marketing channels and campaigns bring results, what changed, and where to spend more."
   version: 0.1.1
   category: marketing-and-ads
   sources:

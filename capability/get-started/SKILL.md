@@ -12,6 +12,8 @@ description: >-
   sources do you support?"), or for adding a source to an existing setup (use the
   create-dataflow skill instead).
 metadata:
+  title: "Get Started with Coupler.io"
+  short_description: "Gets you from an empty Coupler.io workspace to your own data in the chat, connecting your first source along the way."
   version: 0.1.0
   category: capability
   sources: []

@@ -7,6 +7,8 @@ description: >
   the user never says "creative". This is the which-ads-win read; for which winning ads are dying,
   use the fatigue skill instead. Meta / Facebook Ads only.
 metadata:
+  title: "Facebook Ads Creative Performance Analysis"
+  short_description: "Shows which of your Meta ads win, what the winners have in common, and what to make in the next round."
   version: 1.0.0
   category: marketing-and-ads
   sources:

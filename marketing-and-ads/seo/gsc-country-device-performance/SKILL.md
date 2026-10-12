@@ -11,6 +11,8 @@ description: >
   the site. For query-level opportunities use gsc-search-opportunity-finder; for what traffic does
   after landing use gsc-ga4-landing-page-performance. Google Search Console only.
 metadata:
+  title: "Google Search Console Country and Device Performance"
+  short_description: "Shows how your Google search clicks and rankings differ by country and device, and which markets fall behind."
   version: 1.0.0
   category: marketing-and-ads
   sources:

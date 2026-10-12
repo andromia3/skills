@@ -8,9 +8,10 @@ description: >
   which are overcharging for the same clicks. For the cutting view, use microsoft-ads-waste-and-scale
   instead. Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Keyword and Quality Score Analysis"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which Microsoft Ads keywords earn their money, quality weighted by spend, which part of quality is failing, and what low quality costs."
+  short_description: "Shows which Microsoft Ads keywords make money, where a low Quality Score is pushing up your cost per click, and what to fix first."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

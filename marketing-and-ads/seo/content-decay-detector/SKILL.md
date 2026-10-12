@@ -11,6 +11,8 @@ description: >
   use gsc-search-opportunity-finder. A sudden site-wide drop isn't decay — this skill flags it
   rather than diagnosing it. Google Search Console only.
 metadata:
+  title: "Content Decay Analysis"
+  short_description: "Finds pages that are losing Google traffic, tells you whether rankings or demand dropped, and which pages to refresh first."
   version: 1.0.0
   category: marketing-and-ads
   sources:

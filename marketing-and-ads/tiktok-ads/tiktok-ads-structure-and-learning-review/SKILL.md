@@ -7,6 +7,8 @@ description: >
   says "structure". Covers how the account is organised and what that costs it in learning.
   TikTok Ads only.
 metadata:
+  title: "TikTok Ads Account Structure and Learning Phase Review"
+  short_description: "Shows why your TikTok ad groups are stuck in the learning phase and which ones to merge so they can get out of it."
   version: 1.0.0
   category: marketing-and-ads
   sources:

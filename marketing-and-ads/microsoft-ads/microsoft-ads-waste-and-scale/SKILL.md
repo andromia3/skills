@@ -8,9 +8,10 @@ description: >
   the words "waste" or "scale". Also use when someone wants a budget-neutral reallocation proposal
   for the Microsoft Ads account. Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Wasted Spend and Scaling"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Finds Microsoft Ads spend past the point of being early with nothing to show, builds safe negatives, and moves the money to capped campaigns."
+  short_description: "Finds Microsoft Ads search terms that spend without converting, builds your negative keyword list, and shows where to move the money."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

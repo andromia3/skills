@@ -16,11 +16,10 @@ compatibility: >
   source (store, CRM, billing or database) connected through Coupler.io, plus code execution to read
   citation exports. Works in any Agent Skills client (Claude, Cursor and others).
 metadata:
+  title: "AI Search Citations to Revenue"
   version: "1.0.0"
   category: marketing-and-ads
-  short_description: >
-    Follows the pages AI engines cite to AI-referred, organic, referral and direct sessions, Search
-    Console clicks and impressions, your GA4 key events, and the orders, deals or payments behind them.
+  short_description: "Follows the pages AI assistants cite through to traffic, signups and sales, and shows where the chain breaks."
   sources:
     - Peec AI
     - Google Analytics 4 (GA4)

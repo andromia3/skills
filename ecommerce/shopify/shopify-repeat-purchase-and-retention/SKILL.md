@@ -8,6 +8,8 @@ description: >
   decision is where acquisition money goes, or when retention email timing needs a number. Shopify
   only.
 metadata:
+  title: "Shopify Customer Retention and LTV"
+  short_description: "Shows which campaigns, first products and first-order discounts bring Shopify customers who come back and buy again."
   version: 1.0.0
   category: ecommerce
   sources:

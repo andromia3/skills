@@ -8,9 +8,10 @@ description: >
   targets deserve more and what each should bid. For search terms to cut, use the waste skill.
   Amazon Ads only.
 metadata:
+  title: "Amazon Ads Keyword and Product Targeting"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which Amazon keywords and product targets earn, what each should bid from its own revenue per click, and how match types and auto groups compare."
+  short_description: "Shows which Amazon keywords and product targets make money and what each one should bid."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

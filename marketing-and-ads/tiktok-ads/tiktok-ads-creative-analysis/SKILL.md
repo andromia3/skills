@@ -7,6 +7,8 @@ description: >
   the user never says "creative". This is the which-videos-win read; for which winning videos are
   dying, use the fatigue skill instead. TikTok Ads only.
 metadata:
+  title: "TikTok Ads Creative Performance Analysis"
+  short_description: "Shows which of your TikTok videos win, what the winners have in common, and what to shoot next."
   version: 1.0.0
   category: marketing-and-ads
   sources:

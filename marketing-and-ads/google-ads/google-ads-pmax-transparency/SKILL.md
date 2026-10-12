@@ -7,6 +7,8 @@ description: >
   "my Google Ads black box". Also use when PMax conversions rose but the account total didn't.
   Google Ads only.
 metadata:
+  title: "Google Ads Performance Max (PMax) Analysis"
+  short_description: "Shows what Performance Max spends your money on, how much of it is your own brand traffic, and whether it's worth keeping."
   version: 2.0.0
   category: marketing-and-ads
   sources:

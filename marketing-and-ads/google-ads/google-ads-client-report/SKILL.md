@@ -7,6 +7,8 @@ description: >
   say the word "report". Also use when the Google Ads section of a client review or QBR is what's
   wanted. For agencies and in-house teams reporting upward. Google Ads only.
 metadata:
+  title: "Google Ads Client Report"
+  short_description: "Writes your monthly Google Ads report for a client, measured against the targets you agreed, with misses explained and next month's plan."
   version: 2.0.0
   category: marketing-and-ads
   sources:

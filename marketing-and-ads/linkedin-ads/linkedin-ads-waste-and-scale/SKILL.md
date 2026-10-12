@@ -8,9 +8,10 @@ description: >
   someone wants a budget-neutral reallocation proposal for the LinkedIn Ads account. LinkedIn Ads
   only.
 metadata:
+  title: "LinkedIn Ads Wasted Spend and Scaling"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Finds LinkedIn Ads spend past the point of being early with nothing to show — campaigns, creatives, Audience Network, saturation — and moves it."
+  short_description: "Finds the LinkedIn campaigns and ads spending without results and shows where to move that money instead."
   sources:
     - LinkedIn Ads
 ---

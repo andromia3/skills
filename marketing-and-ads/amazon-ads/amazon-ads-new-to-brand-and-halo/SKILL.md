@@ -7,9 +7,10 @@ description: >
   look so bad" — even when the user never says "new to brand". Covers what upper-funnel Amazon ads
   are worth beyond ACOS. Amazon Ads only.
 metadata:
+  title: "Amazon Ads New-to-Brand and Halo Sales"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "What Amazon Sponsored Brands, Display, TV and DSP buy beyond ACOS — new-to-brand customers, halo sales, branded searches."
+  short_description: "Shows what Sponsored Brands, Display and DSP bring in beyond ACOS, like first-time customers and more searches for your brand."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

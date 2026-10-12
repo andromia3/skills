@@ -8,9 +8,10 @@ description: >
   Also use when someone wants a budget-neutral reallocation for the Amazon Ads account. Amazon Ads
   only.
 metadata:
+  title: "Amazon Ads Wasted Spend and Scaling"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Finds Amazon search terms and product matches spending without selling, builds safe negatives, harvests winners, and moves the money."
+  short_description: "Finds Amazon search terms that spend without selling, builds your negative keyword list, and moves the money to terms that sell."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

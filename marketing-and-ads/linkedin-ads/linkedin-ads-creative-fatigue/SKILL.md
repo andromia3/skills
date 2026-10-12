@@ -8,9 +8,10 @@ description: >
   read; for which LinkedIn creative wins in the first place, use the creative analysis skill.
   LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Ads Creative Fatigue"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which LinkedIn Ads creatives are wearing out, roughly how long each has left, whether it's the audience, and how many new creatives a month."
+  short_description: "Shows which LinkedIn ads are wearing out, how long each one has left, and how many new ads you need each month."
   sources:
     - LinkedIn Ads
 ---

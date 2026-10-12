@@ -8,9 +8,10 @@ description: >
   strategy against placement adjustments, self-competition, brand mixing, automatic against manual,
   and crowded ad groups, each priced. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Account Settings and Structure Audit"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Prices every Amazon Ads setting and structural choice costing money — effective top-of-search bids, self-competition, brand mixing, crowded ad groups."
+  short_description: "Finds the Amazon Ads settings and campaign setups wasting money, like campaigns bidding against each other, and what each one costs."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

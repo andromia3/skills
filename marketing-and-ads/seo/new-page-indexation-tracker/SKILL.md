@@ -11,6 +11,8 @@ description: >
   quickly. For pages that once ranked and are slipping use content-decay-detector. Google Search
   Console only.
 metadata:
+  title: "New Page Indexing Tracker"
+  short_description: "Tracks how long your new pages take to show up in Google and get their first clicks, and flags the ones Google is ignoring."
   version: 1.0.0
   category: marketing-and-ads
   sources:

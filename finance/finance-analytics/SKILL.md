@@ -2,6 +2,8 @@
 name: finance-analytics
 description: Use this skill when the user wants to analyze financial performance, review P&L health, monitor MRR/ARR, investigate margin or cost trends, build a finance report, check cash flow or runway, or answer questions about their accounting/billing data. Triggers include 'how is revenue trending', 'gross margin', 'MRR breakdown', 'churn impact on ARR', 'why did costs go up', 'operating expenses', 'cash runway', 'P&L review', 'EBITDA', 'cost per acquisition trend', 'pull my QuickBooks numbers', 'finance report'.
 metadata:
+  title: "Finance Analytics"
+  short_description: "Shows your P&L, MRR, margins and cash runway, pulled straight from your accounting and billing tools."
   category: finance
   sources:
     - QuickBooks

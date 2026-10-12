@@ -8,6 +8,8 @@ description: >
   strategies, each priced in the spend flowing through it. Most of these toggles default in Google's
   favour. Google Ads only.
 metadata:
+  title: "Google Ads Account Settings Audit"
+  short_description: "Finds the Google Ads settings quietly wasting money, like search partners and Display expansion, and shows what each one costs you."
   version: 2.0.0
   category: marketing-and-ads
   sources:

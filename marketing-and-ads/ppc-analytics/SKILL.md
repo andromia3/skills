@@ -12,6 +12,8 @@ description: >
   for cross-channel marketing (email, social, SEO) use marketing-analytics; report formatting composes
   report-generation.
 metadata:
+  title: "PPC Performance Across Ad Platforms"
+  short_description: "Compares your ad platforms side by side on spend, CPA and ROAS without double counting conversions."
   version: 0.2.0
   category: marketing-and-ads
   sources:

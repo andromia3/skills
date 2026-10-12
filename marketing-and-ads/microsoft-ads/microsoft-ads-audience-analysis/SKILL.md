@@ -8,9 +8,10 @@ description: >
   "audience". This is the who-converts read, including the LinkedIn profile cuts no other search
   platform reports. Microsoft Ads (Bing) only.
 metadata:
+  title: "Microsoft Bing Ads Audience Targeting Analysis"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which Microsoft Ads audiences earn their spend — lists, age and gender, and LinkedIn profile cuts by industry and job function — with bid adjustments."
+  short_description: "Shows which Microsoft Ads audiences bring results, including LinkedIn job and industry targeting, and how to set your bids."
   sources:
     - Microsoft Ads (Bing Ads)
 ---

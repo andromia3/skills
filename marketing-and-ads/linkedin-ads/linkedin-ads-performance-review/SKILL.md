@@ -7,9 +7,10 @@ description: >
   never says "review". Also use when someone wants to know what changed in the LinkedIn account and
   why, or needs the baseline read before deciding anything else. LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Ads Performance Report"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The LinkedIn Ads baseline read — what the account did, why it changed, reach and frequency, and what to do, with a number on each."
+  short_description: "Shows what changed in your LinkedIn Ads, why your cost per lead moved, and what to do about it next."
   sources:
     - LinkedIn Ads
 ---

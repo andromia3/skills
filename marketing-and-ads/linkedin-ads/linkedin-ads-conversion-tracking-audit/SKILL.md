@@ -8,9 +8,10 @@ description: >
   without the word "audit". Run before trusting any cost or return conclusion about the account.
   LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Ads Conversion Tracking Audit"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Whether LinkedIn Ads conversions can be trusted — rules, attribution overcount, view-through share, untracked spend, dated breaks."
+  short_description: "Checks whether you can trust your LinkedIn Ads conversion numbers before you move budget, including double counting and untracked spend."
   sources:
     - LinkedIn Ads
 ---

@@ -8,9 +8,10 @@ description: >
   search, rest of search and product pages, and the share of the top of search the account wins.
   Amazon Ads only.
 metadata:
+  title: "Amazon Ads Placement and Top-of-Search Share"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Where on Amazon the ads earn — top of search, rest of search, product pages — placement adjustments sized, and top-of-search share."
+  short_description: "Shows whether your Amazon ads sell better at the top of search or on product pages, and how to set your placement bids."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)

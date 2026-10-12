@@ -7,9 +7,10 @@ description: >
   user never says "review". Also use when someone wants to know what changed in the Amazon account
   and why, or needs the baseline read before deciding anything else. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Performance Report"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The Amazon Ads baseline read — what the account did, why ACOS moved, split by ad product, and what to do, with a number on each."
+  short_description: "Shows what changed in your Amazon Ads, why your ACOS moved, and what to do about it next."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)
