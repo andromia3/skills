@@ -255,13 +255,13 @@ first.
 
 | Go here instead when | Skill |
 |---|---|
-| The read is for the operator, not the client | `google-ads-performance-review` |
+| The read is for the operator, not the client | `google-ads-performance-report` |
 | The conversion numbers are doubted — run before publishing | `google-ads-conversion-tracking-audit` |
 | The question is whether this month lands on budget | `google-ads-budget-pacing` |
-| The client wants to know what to cut and where to put it | `google-ads-waste-and-scale` |
+| The client wants to know what to cut and where to put it | `google-ads-wasted-spend-and-scaling` |
 | A KPI miss traces to keyword-level cost | `google-ads-keyword-and-quality-score-analysis` |
-| The gap sits inside Performance Max | `google-ads-pmax-transparency` |
-| An inherited account needs its configuration checked | `google-ads-settings-audit` |
+| The gap sits inside Performance Max | `google-ads-performance-max-analysis` |
+| An inherited account needs its configuration checked | `google-ads-account-settings-audit` |
 | A figure the report needs isn't in any packaged report type | `google-ads-custom-gaql` |
 | The report needs platforms other than Google Ads | `ppc-analytics` |
 

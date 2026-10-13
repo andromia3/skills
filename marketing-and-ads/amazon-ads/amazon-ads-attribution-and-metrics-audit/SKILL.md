@@ -210,8 +210,8 @@ restatement period if measured, **and the dataset and account timezone.** Every 
 
 | Go here instead when | Skill |
 |---|---|
-| The numbers line up and the question is performance | `amazon-ads-performance-review` |
-| Upper-funnel value once bases are clear | `amazon-ads-new-to-brand-and-halo` |
+| The numbers line up and the question is performance | `amazon-ads-performance-report` |
+| Upper-funnel value once bases are clear | `amazon-ads-new-to-brand-and-halo-sales` |
 | Comparing Amazon with other platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |
 

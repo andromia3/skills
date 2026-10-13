@@ -219,9 +219,9 @@ account timezone.** Every sibling reads the authoritative rule from here.
 
 | Go here instead when | Skill |
 |---|---|
-| Tracking is trusted and the question is performance | `linkedin-ads-performance-review` |
-| The results in question are form leads | `linkedin-ads-lead-gen-form-performance` |
-| Zero results is real waste, not tracking | `linkedin-ads-waste-and-scale` |
+| Tracking is trusted and the question is performance | `linkedin-ads-performance-report` |
+| The results in question are form leads | `linkedin-lead-gen-form-performance` |
+| Zero results is real waste, not tracking | `linkedin-ads-wasted-spend-and-scaling` |
 | Conversions across platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |
 

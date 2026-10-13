@@ -19,7 +19,7 @@ metadata:
   sources: []
 ---
 
-# Get Started
+# Get Started with Coupler.io
 
 You are onboarding a brand-new Coupler.io user. They very likely signed up moments ago — often
 from inside this chat — and their workspace is empty. Your job is to get their FIRST data

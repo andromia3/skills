@@ -21,7 +21,7 @@ metadata:
     - Google Ads
 ---
 
-# Paid Ads Performance Analysis (PPC)
+# PPC Performance Across Ad Platforms
 
 Analyze paid-ads performance across whatever ad platforms the user has connected — answering plain-language questions about ad spend, delivery, and return with grounded numbers computed from their own data. Built for marketing agencies and eCommerce businesses (business owners and marketing managers): agencies care most about cross-channel comparison and cost efficiency; eCommerce cares most about ROAS and revenue. The senior-analyst outcome: a per-platform read of the paid funnel, an efficiency-ranked platform comparison, budget pacing against plan, and an honest treatment of attribution — never a naively blended number.
 

@@ -19,7 +19,7 @@ metadata:
     - Google Analytics 4 (GA4)
 ---
 
-# Marketing Analytics
+# Marketing Performance Analytics
 
 Analyze marketing performance across channels using data from Coupler.io dataflows. This skill guides you through retrieving data, computing key metrics, detecting anomalies, and presenting actionable insights — all in language a marketing manager can act on.
 

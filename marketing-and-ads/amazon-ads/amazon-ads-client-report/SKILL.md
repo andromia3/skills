@@ -219,10 +219,10 @@ month doesn't re-ask the KPIs.
 
 | Go here instead when | Skill |
 |---|---|
-| The operator needs the diagnosis, not the client write-up | `amazon-ads-performance-review` |
+| The operator needs the diagnosis, not the client write-up | `amazon-ads-performance-report` |
 | The client's sales numbers are doubted | `amazon-ads-attribution-and-metrics-audit` |
 | Next month's plan needs a budget move sized | `amazon-ads-budget-pacing` |
-| The client asks what Brands and Display are worth | `amazon-ads-new-to-brand-and-halo` |
+| The client asks what Brands and Display are worth | `amazon-ads-new-to-brand-and-halo-sales` |
 | The client report covers several ad platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |
 

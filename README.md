@@ -71,13 +71,13 @@ Eight Google-Ads-only skills in `marketing-and-ads/google-ads/`. Each one owns a
 
 | Skill | What it does |
 | --- | --- |
-| [**google-ads-performance-review**](marketing-and-ads/google-ads/google-ads-performance-review/SKILL.md) | The baseline read — what changed in the account and why. Period comparison, cost-per-lead moves, impression-share loss. Run this before deciding anything else. |
-| [**google-ads-waste-and-scale**](marketing-and-ads/google-ads/google-ads-waste-and-scale/SKILL.md) | The cutting view — search-term waste, negative-keyword candidates, what to pause, and a budget-neutral reallocation proposal. |
+| [**google-ads-performance-report**](marketing-and-ads/google-ads/google-ads-performance-report/SKILL.md) | The baseline read — what changed in the account and why. Period comparison, cost-per-lead moves, impression-share loss. Run this before deciding anything else. |
+| [**google-ads-wasted-spend-and-scaling**](marketing-and-ads/google-ads/google-ads-wasted-spend-and-scaling/SKILL.md) | The cutting view — search-term waste, negative-keyword candidates, what to pause, and a budget-neutral reallocation proposal. |
 | [**google-ads-keyword-and-quality-score-analysis**](marketing-and-ads/google-ads/google-ads-keyword-and-quality-score-analysis/SKILL.md) | The earning view — which keywords deserve more money, which overcharge for the same clicks, match-type and quality-score diagnosis. |
 | [**google-ads-budget-pacing**](marketing-and-ads/google-ads/google-ads-budget-pacing/SKILL.md) | Month-end arithmetic — on-track or overspending, daily target, which campaigns are budget-capped, and whether more budget would do anything. |
 | [**google-ads-conversion-tracking-audit**](marketing-and-ads/google-ads/google-ads-conversion-tracking-audit/SKILL.md) | Whether the conversion numbers can be trusted at all — double-counting, Analytics disagreement, untracked spend. Run before any cost or return conclusion. |
-| [**google-ads-settings-audit**](marketing-and-ads/google-ads/google-ads-settings-audit/SKILL.md) | Account configuration priced in the spend flowing through it — search partners, Display expansion, location intent, auto-apply, ad rotation, conversion windows, bid strategies. |
-| [**google-ads-pmax-transparency**](marketing-and-ads/google-ads/google-ads-pmax-transparency/SKILL.md) | Opening the Performance Max black box — Shopping cannibalisation, brand-traffic buying, asset-group performance. |
+| [**google-ads-account-settings-audit**](marketing-and-ads/google-ads/google-ads-account-settings-audit/SKILL.md) | Account configuration priced in the spend flowing through it — search partners, Display expansion, location intent, auto-apply, ad rotation, conversion windows, bid strategies. |
+| [**google-ads-performance-max-analysis**](marketing-and-ads/google-ads/google-ads-performance-max-analysis/SKILL.md) | Opening the Performance Max black box — Shopping cannibalisation, brand-traffic buying, asset-group performance. |
 | [**google-ads-client-report**](marketing-and-ads/google-ads/google-ads-client-report/SKILL.md) | The monthly client write-up — what to say, how to present a missed target. Built only when asked. |
 
 #### TikTok Ads deep dives
@@ -86,16 +86,16 @@ Eleven TikTok-only skills in `marketing-and-ads/tiktok-ads/`. Same shape as the 
 
 | Skill | What it does |
 | --- | --- |
-| [**tiktok-ads-performance-review**](marketing-and-ads/tiktok-ads/tiktok-ads-performance-review/SKILL.md) | The baseline read — what moved, which campaigns moved it, and how much of the change each one caused. Run this before deciding anything else. |
-| [**tiktok-ads-waste-and-scale**](marketing-and-ads/tiktok-ads/tiktok-ads-waste-and-scale/SKILL.md) | The cutting view — what to turn off and what to fund with the money, as one decision rather than two. |
-| [**tiktok-ads-creative-analysis**](marketing-and-ads/tiktok-ads/tiktok-ads-creative-analysis/SKILL.md) | Which videos earn their spend, where the losing ones lose people, and what the next round should be. |
-| [**tiktok-ads-creative-fatigue-and-velocity**](marketing-and-ads/tiktok-ads/tiktok-ads-creative-fatigue-and-velocity/SKILL.md) | Which videos are dying, how long they have left, and how many new ones a month the account needs to keep up. |
-| [**tiktok-ads-audience-analysis**](marketing-and-ads/tiktok-ads/tiktok-ads-audience-analysis/SKILL.md) | Which audiences earn their spend — and whether targeting is doing any work the creative was not already doing. |
+| [**tiktok-ads-performance-report**](marketing-and-ads/tiktok-ads/tiktok-ads-performance-report/SKILL.md) | The baseline read — what moved, which campaigns moved it, and how much of the change each one caused. Run this before deciding anything else. |
+| [**tiktok-ads-wasted-spend-and-scaling**](marketing-and-ads/tiktok-ads/tiktok-ads-wasted-spend-and-scaling/SKILL.md) | The cutting view — what to turn off and what to fund with the money, as one decision rather than two. |
+| [**tiktok-ads-creative-performance-analysis**](marketing-and-ads/tiktok-ads/tiktok-ads-creative-performance-analysis/SKILL.md) | Which videos earn their spend, where the losing ones lose people, and what the next round should be. |
+| [**tiktok-ads-creative-fatigue-and-refresh-cadence**](marketing-and-ads/tiktok-ads/tiktok-ads-creative-fatigue-and-refresh-cadence/SKILL.md) | Which videos are dying, how long they have left, and how many new ones a month the account needs to keep up. |
+| [**tiktok-ads-audience-targeting-analysis**](marketing-and-ads/tiktok-ads/tiktok-ads-audience-targeting-analysis/SKILL.md) | Which audiences earn their spend — and whether targeting is doing any work the creative was not already doing. |
 | [**tiktok-ads-budget-pacing**](marketing-and-ads/tiktok-ads/tiktok-ads-budget-pacing/SKILL.md) | Where the month ends if nothing changes, the daily spend to land on plan, and which ad groups will not take more money. |
-| [**tiktok-ads-pixel-and-attribution-audit**](marketing-and-ads/tiktok-ads/tiktok-ads-pixel-and-attribution-audit/SKILL.md) | Whether the conversion numbers can be trusted before you move budget on them. Run before any cost or return conclusion. |
-| [**tiktok-ads-structure-and-learning-review**](marketing-and-ads/tiktok-ads/tiktok-ads-structure-and-learning-review/SKILL.md) | Whether the account is split into more ad groups than its budget can feed, priced in what that costs in delivery. |
-| [**tiktok-ads-placement-geo-and-device**](marketing-and-ads/tiktok-ads/tiktok-ads-placement-geo-and-device/SKILL.md) | Where and when the money actually goes, and what each of those places is worth. |
-| [**tiktok-ads-gmv-max-and-shop-review**](marketing-and-ads/tiktok-ads/tiktok-ads-gmv-max-and-shop-review/SKILL.md) | What GMV Max is actually buying, whether it cannibalises campaigns already making those sales, and which products carry it. |
+| [**tiktok-ads-conversion-tracking-and-pixel-audit**](marketing-and-ads/tiktok-ads/tiktok-ads-conversion-tracking-and-pixel-audit/SKILL.md) | Whether the conversion numbers can be trusted before you move budget on them. Run before any cost or return conclusion. |
+| [**tiktok-ads-account-structure-and-learning-phase-review**](marketing-and-ads/tiktok-ads/tiktok-ads-account-structure-and-learning-phase-review/SKILL.md) | Whether the account is split into more ad groups than its budget can feed, priced in what that costs in delivery. |
+| [**tiktok-ads-placement-location-and-device-breakdown**](marketing-and-ads/tiktok-ads/tiktok-ads-placement-location-and-device-breakdown/SKILL.md) | Where and when the money actually goes, and what each of those places is worth. |
+| [**tiktok-shop-and-gmv-max-review**](marketing-and-ads/tiktok-ads/tiktok-shop-and-gmv-max-review/SKILL.md) | What GMV Max is actually buying, whether it cannibalises campaigns already making those sales, and which products carry it. |
 | [**tiktok-ads-client-report**](marketing-and-ads/tiktok-ads/tiktok-ads-client-report/SKILL.md) | The monthly client write-up — the kind that survives being questioned. Built only when asked. |
 
 #### Meta / Facebook Ads deep dives
@@ -104,16 +104,16 @@ Eleven Meta-only skills in `marketing-and-ads/facebook-ads/`. Same shape as the 
 
 | Skill | What it does |
 | --- | --- |
-| [**facebook-ads-performance-review**](marketing-and-ads/facebook-ads/facebook-ads-performance-review/SKILL.md) | The baseline read — what moved this period and which campaigns moved it. Cost decomposed into CPM, CTR and conversion rate. Run this before deciding anything else. |
-| [**facebook-ads-waste-and-scale**](marketing-and-ads/facebook-ads/facebook-ads-waste-and-scale/SKILL.md) | The cutting view — ad sets spending without results, creative past its fatigue threshold, each cut paired with where the money should go instead. |
-| [**facebook-ads-creative-analysis**](marketing-and-ads/facebook-ads/facebook-ads-creative-analysis/SKILL.md) | Which ads win and why — thumbstop and hook rate, what the winners have in common, and the brief for the next production round. |
+| [**facebook-ads-performance-report**](marketing-and-ads/facebook-ads/facebook-ads-performance-report/SKILL.md) | The baseline read — what moved this period and which campaigns moved it. Cost decomposed into CPM, CTR and conversion rate. Run this before deciding anything else. |
+| [**facebook-ads-wasted-spend-and-scaling**](marketing-and-ads/facebook-ads/facebook-ads-wasted-spend-and-scaling/SKILL.md) | The cutting view — ad sets spending without results, creative past its fatigue threshold, each cut paired with where the money should go instead. |
+| [**facebook-ads-creative-performance-analysis**](marketing-and-ads/facebook-ads/facebook-ads-creative-performance-analysis/SKILL.md) | Which ads win and why — thumbstop and hook rate, what the winners have in common, and the brief for the next production round. |
 | [**facebook-ads-creative-fatigue**](marketing-and-ads/facebook-ads/facebook-ads-creative-fatigue/SKILL.md) | How long the winners have left — CTR decay against first-week baseline, CPM drift, a refresh queue ranked by spend at risk, and monthly creative volume needed. |
-| [**facebook-ads-audience-analysis**](marketing-and-ads/facebook-ads/facebook-ads-audience-analysis/SKILL.md) | Which audiences earn their spend — lookalike vs interest vs broad vs retargeting, saturation as audiences age, and who is being paid for twice. |
+| [**facebook-ads-audience-targeting-analysis**](marketing-and-ads/facebook-ads/facebook-ads-audience-targeting-analysis/SKILL.md) | Which audiences earn their spend — lookalike vs interest vs broad vs retargeting, saturation as audiences age, and who is being paid for twice. |
 | [**facebook-ads-budget-pacing**](marketing-and-ads/facebook-ads/facebook-ads-budget-pacing/SKILL.md) | Month-end arithmetic — on-track or overspending, required daily spend, which ad sets are capped, and whether more budget would do anything. |
-| [**facebook-ads-pixel-and-attribution-audit**](marketing-and-ads/facebook-ads/facebook-ads-pixel-and-attribution-audit/SKILL.md) | Whether the conversion numbers can be trusted — pixel and CAPI coverage, deduplication, view-through share, the platform-vs-store gap. Run before any cost or return conclusion. |
-| [**facebook-ads-settings-audit**](marketing-and-ads/facebook-ads/facebook-ads-settings-audit/SKILL.md) | Configuration priced in the spend flowing through it — optimisation goals, bid strategy, Advantage+ and expansion toggles, attribution setting. Most of these default in Meta's favour. |
-| [**facebook-ads-structure-and-learning-review**](marketing-and-ads/facebook-ads/facebook-ads-structure-and-learning-review/SKILL.md) | How the account is organised and what that costs in learning — ad sets stuck below event volume, fragmentation, audience overlap, consolidation with the spend affected. |
-| [**facebook-ads-placement-geo-and-device**](marketing-and-ads/facebook-ads/facebook-ads-placement-geo-and-device/SKILL.md) | Where the budget actually goes — Feed vs Reels vs Stories vs Audience Network, region, device and delivery hour, each with what it is worth. |
+| [**facebook-ads-conversion-tracking-and-pixel-audit**](marketing-and-ads/facebook-ads/facebook-ads-conversion-tracking-and-pixel-audit/SKILL.md) | Whether the conversion numbers can be trusted — pixel and CAPI coverage, deduplication, view-through share, the platform-vs-store gap. Run before any cost or return conclusion. |
+| [**facebook-ads-account-settings-audit**](marketing-and-ads/facebook-ads/facebook-ads-account-settings-audit/SKILL.md) | Configuration priced in the spend flowing through it — optimisation goals, bid strategy, Advantage+ and expansion toggles, attribution setting. Most of these default in Meta's favour. |
+| [**facebook-ads-account-structure-and-learning-phase-review**](marketing-and-ads/facebook-ads/facebook-ads-account-structure-and-learning-phase-review/SKILL.md) | How the account is organised and what that costs in learning — ad sets stuck below event volume, fragmentation, audience overlap, consolidation with the spend affected. |
+| [**facebook-ads-placement-location-and-device-breakdown**](marketing-and-ads/facebook-ads/facebook-ads-placement-location-and-device-breakdown/SKILL.md) | Where the budget actually goes — Feed vs Reels vs Stories vs Audience Network, region, device and delivery hour, each with what it is worth. |
 | [**facebook-ads-client-report**](marketing-and-ads/facebook-ads/facebook-ads-client-report/SKILL.md) | The monthly client write-up — KPIs against goal, creative winners, the attribution caveat stated once and plainly. Built only when asked. |
 
 #### Microsoft Ads deep dives
@@ -122,17 +122,17 @@ Eleven Microsoft Ads (Bing) skills in `marketing-and-ads/microsoft-ads/`. Same s
 
 | Skill | What it does |
 | --- | --- |
-| [**microsoft-ads-performance-review**](marketing-and-ads/microsoft-ads/microsoft-ads-performance-review/SKILL.md) | The Microsoft Ads baseline read — what the account did, why it changed, the demand it is missing, and what to do, with a number on each. |
-| [**microsoft-ads-budget-pacing**](marketing-and-ads/microsoft-ads/microsoft-ads-budget-pacing/SKILL.md) | Where Microsoft Ads spend lands by month end, which campaigns are capped by budget, and whether more money would buy anything. |
-| [**microsoft-ads-waste-and-scale**](marketing-and-ads/microsoft-ads/microsoft-ads-waste-and-scale/SKILL.md) | Finds Microsoft Ads spend past the point of being early with nothing to show, builds safe negatives, and moves the money to capped campaigns. |
-| [**microsoft-ads-conversion-tracking-audit**](marketing-and-ads/microsoft-ads/microsoft-ads-conversion-tracking-audit/SKILL.md) | Whether Microsoft Ads conversions can be trusted — goals counting, double counts, untracked spend, dated breaks — before anyone moves money. |
-| [**microsoft-ads-keyword-and-quality-score-analysis**](marketing-and-ads/microsoft-ads/microsoft-ads-keyword-and-quality-score-analysis/SKILL.md) | Which Microsoft Ads keywords earn their money, quality weighted by spend, which part of quality is failing, and what low quality costs. |
-| [**microsoft-ads-settings-audit**](marketing-and-ads/microsoft-ads/microsoft-ads-settings-audit/SKILL.md) | Prices every Microsoft Ads setting that costs money — syndication, location intent, audience setting, bid strategies, Google Import overwrites. |
-| [**microsoft-ads-audience-analysis**](marketing-and-ads/microsoft-ads/microsoft-ads-audience-analysis/SKILL.md) | Which Microsoft Ads audiences earn their spend — lists, age and gender, and LinkedIn profile cuts by industry and job function — with bid adjustments. |
-| [**microsoft-ads-geo-device-and-dayparting**](marketing-and-ads/microsoft-ads/microsoft-ads-geo-device-and-dayparting/SKILL.md) | Where, on what device and at what hour Microsoft Ads spend earns — share of spend against share of results, with adjustments sized. |
-| [**microsoft-ads-competitive-position**](marketing-and-ads/microsoft-ads/microsoft-ads-competitive-position/SKILL.md) | The Microsoft Ads account's position in the auction — share won, lost to budget or rank, top of page, click share — and where to defend. |
-| [**microsoft-ads-shopping-and-product-performance**](marketing-and-ads/microsoft-ads/microsoft-ads-shopping-and-product-performance/SKILL.md) | Which products Microsoft Shopping makes money on, which spend without selling or never serve, and how to restructure the product groups. |
-| [**microsoft-ads-client-report**](marketing-and-ads/microsoft-ads/microsoft-ads-client-report/SKILL.md) | The monthly Microsoft Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached. |
+| [**bing-ads-performance-report**](marketing-and-ads/microsoft-ads/bing-ads-performance-report/SKILL.md) | The Microsoft Ads baseline read — what the account did, why it changed, the demand it is missing, and what to do, with a number on each. |
+| [**bing-ads-budget-pacing**](marketing-and-ads/microsoft-ads/bing-ads-budget-pacing/SKILL.md) | Where Microsoft Ads spend lands by month end, which campaigns are capped by budget, and whether more money would buy anything. |
+| [**bing-ads-wasted-spend-and-scaling**](marketing-and-ads/microsoft-ads/bing-ads-wasted-spend-and-scaling/SKILL.md) | Finds Microsoft Ads spend past the point of being early with nothing to show, builds safe negatives, and moves the money to capped campaigns. |
+| [**bing-ads-conversion-tracking-audit**](marketing-and-ads/microsoft-ads/bing-ads-conversion-tracking-audit/SKILL.md) | Whether Microsoft Ads conversions can be trusted — goals counting, double counts, untracked spend, dated breaks — before anyone moves money. |
+| [**bing-ads-keyword-and-quality-score-analysis**](marketing-and-ads/microsoft-ads/bing-ads-keyword-and-quality-score-analysis/SKILL.md) | Which Microsoft Ads keywords earn their money, quality weighted by spend, which part of quality is failing, and what low quality costs. |
+| [**bing-ads-account-settings-audit**](marketing-and-ads/microsoft-ads/bing-ads-account-settings-audit/SKILL.md) | Prices every Microsoft Ads setting that costs money — syndication, location intent, audience setting, bid strategies, Google Import overwrites. |
+| [**bing-ads-audience-targeting-analysis**](marketing-and-ads/microsoft-ads/bing-ads-audience-targeting-analysis/SKILL.md) | Which Microsoft Ads audiences earn their spend — lists, age and gender, and LinkedIn profile cuts by industry and job function — with bid adjustments. |
+| [**bing-ads-location-device-and-dayparting**](marketing-and-ads/microsoft-ads/bing-ads-location-device-and-dayparting/SKILL.md) | Where, on what device and at what hour Microsoft Ads spend earns — share of spend against share of results, with adjustments sized. |
+| [**bing-ads-impression-share-and-auction-insights**](marketing-and-ads/microsoft-ads/bing-ads-impression-share-and-auction-insights/SKILL.md) | The Microsoft Ads account's position in the auction — share won, lost to budget or rank, top of page, click share — and where to defend. |
+| [**bing-shopping-ads-product-performance**](marketing-and-ads/microsoft-ads/bing-shopping-ads-product-performance/SKILL.md) | Which products Microsoft Shopping makes money on, which spend without selling or never serve, and how to restructure the product groups. |
+| [**bing-ads-client-report**](marketing-and-ads/microsoft-ads/bing-ads-client-report/SKILL.md) | The monthly Microsoft Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached. |
 
 #### LinkedIn Ads deep dives
 
@@ -140,15 +140,15 @@ Ten LinkedIn-only skills in `marketing-and-ads/linkedin-ads/`. Member demographi
 
 | Skill | What it does |
 | --- | --- |
-| [**linkedin-ads-performance-review**](marketing-and-ads/linkedin-ads/linkedin-ads-performance-review/SKILL.md) | The LinkedIn Ads baseline read — what the account did, why it changed, reach and frequency, and what to do, with a number on each. |
+| [**linkedin-ads-performance-report**](marketing-and-ads/linkedin-ads/linkedin-ads-performance-report/SKILL.md) | The LinkedIn Ads baseline read — what the account did, why it changed, reach and frequency, and what to do, with a number on each. |
 | [**linkedin-ads-budget-pacing**](marketing-and-ads/linkedin-ads/linkedin-ads-budget-pacing/SKILL.md) | Where LinkedIn Ads spend lands by month end, which campaigns spend their full budget, and why the underspenders can't spend. |
-| [**linkedin-ads-waste-and-scale**](marketing-and-ads/linkedin-ads/linkedin-ads-waste-and-scale/SKILL.md) | Finds LinkedIn Ads spend past the point of being early with nothing to show — campaigns, creatives, Audience Network, saturation — and moves it. |
+| [**linkedin-ads-wasted-spend-and-scaling**](marketing-and-ads/linkedin-ads/linkedin-ads-wasted-spend-and-scaling/SKILL.md) | Finds LinkedIn Ads spend past the point of being early with nothing to show — campaigns, creatives, Audience Network, saturation — and moves it. |
 | [**linkedin-ads-conversion-tracking-audit**](marketing-and-ads/linkedin-ads/linkedin-ads-conversion-tracking-audit/SKILL.md) | Whether LinkedIn Ads conversions can be trusted — rules, attribution overcount, view-through share, untracked spend, dated breaks. |
-| [**linkedin-ads-lead-gen-form-performance**](marketing-and-ads/linkedin-ads/linkedin-ads-lead-gen-form-performance/SKILL.md) | Which LinkedIn lead gen forms earn their leads — cost per lead, form completion, and who the leads are from their own answers, never as individuals. |
-| [**linkedin-ads-creative-analysis**](marketing-and-ads/linkedin-ads/linkedin-ads-creative-analysis/SKILL.md) | Which LinkedIn Ads creatives win within their own format, what winners share, and a brief for the next round. |
+| [**linkedin-lead-gen-form-performance**](marketing-and-ads/linkedin-ads/linkedin-lead-gen-form-performance/SKILL.md) | Which LinkedIn lead gen forms earn their leads — cost per lead, form completion, and who the leads are from their own answers, never as individuals. |
+| [**linkedin-ads-creative-performance-analysis**](marketing-and-ads/linkedin-ads/linkedin-ads-creative-performance-analysis/SKILL.md) | Which LinkedIn Ads creatives win within their own format, what winners share, and a brief for the next round. |
 | [**linkedin-ads-creative-fatigue**](marketing-and-ads/linkedin-ads/linkedin-ads-creative-fatigue/SKILL.md) | Which LinkedIn Ads creatives are wearing out, roughly how long each has left, whether it's the audience, and how many new creatives a month. |
-| [**linkedin-ads-placement-and-device**](marketing-and-ads/linkedin-ads/linkedin-ads-placement-and-device/SKILL.md) | What LinkedIn Ads spend earns on LinkedIn against the Audience Network, by placement and device, with what to switch off. |
-| [**linkedin-ads-settings-and-structure-audit**](marketing-and-ads/linkedin-ads/linkedin-ads-settings-and-structure-audit/SKILL.md) | Prices every LinkedIn Ads setting and structural choice costing money — objectives, bids, Audience Network, expansion, overlapping campaigns. |
+| [**linkedin-ads-placement-and-device-breakdown**](marketing-and-ads/linkedin-ads/linkedin-ads-placement-and-device-breakdown/SKILL.md) | What LinkedIn Ads spend earns on LinkedIn against the Audience Network, by placement and device, with what to switch off. |
+| [**linkedin-ads-account-settings-and-structure-audit**](marketing-and-ads/linkedin-ads/linkedin-ads-account-settings-and-structure-audit/SKILL.md) | Prices every LinkedIn Ads setting and structural choice costing money — objectives, bids, Audience Network, expansion, overlapping campaigns. |
 | [**linkedin-ads-client-report**](marketing-and-ads/linkedin-ads/linkedin-ads-client-report/SKILL.md) | The monthly LinkedIn Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached. |
 
 #### Amazon Ads deep dives
@@ -157,15 +157,15 @@ Ten Amazon-only skills in `marketing-and-ads/amazon-ads/`, built on the standard
 
 | Skill | What it does |
 | --- | --- |
-| [**amazon-ads-performance-review**](marketing-and-ads/amazon-ads/amazon-ads-performance-review/SKILL.md) | The Amazon Ads baseline read — what the account did, why ACOS moved, split by ad product, and what to do, with a number on each. |
+| [**amazon-ads-performance-report**](marketing-and-ads/amazon-ads/amazon-ads-performance-report/SKILL.md) | The Amazon Ads baseline read — what the account did, why ACOS moved, split by ad product, and what to do, with a number on each. |
 | [**amazon-ads-budget-pacing**](marketing-and-ads/amazon-ads/amazon-ads-budget-pacing/SKILL.md) | Where Amazon Ads spend lands by month end, which campaigns run out of budget early, portfolio caps, and whether more money would pay back. |
-| [**amazon-ads-waste-and-scale**](marketing-and-ads/amazon-ads/amazon-ads-waste-and-scale/SKILL.md) | Finds Amazon search terms and product matches spending without selling, builds safe negatives, harvests winners, and moves the money. |
-| [**amazon-ads-targeting-analysis**](marketing-and-ads/amazon-ads/amazon-ads-targeting-analysis/SKILL.md) | Which Amazon keywords and product targets earn, what each should bid from its own revenue per click, and how match types and auto groups compare. |
-| [**amazon-ads-placement-and-search-share**](marketing-and-ads/amazon-ads/amazon-ads-placement-and-search-share/SKILL.md) | Where on Amazon the ads earn — top of search, rest of search, product pages — placement adjustments sized, and top-of-search share. |
+| [**amazon-ads-wasted-spend-and-scaling**](marketing-and-ads/amazon-ads/amazon-ads-wasted-spend-and-scaling/SKILL.md) | Finds Amazon search terms and product matches spending without selling, builds safe negatives, harvests winners, and moves the money. |
+| [**amazon-ads-keyword-and-product-targeting**](marketing-and-ads/amazon-ads/amazon-ads-keyword-and-product-targeting/SKILL.md) | Which Amazon keywords and product targets earn, what each should bid from its own revenue per click, and how match types and auto groups compare. |
+| [**amazon-ads-placement-and-top-of-search-share**](marketing-and-ads/amazon-ads/amazon-ads-placement-and-top-of-search-share/SKILL.md) | Where on Amazon the ads earn — top of search, rest of search, product pages — placement adjustments sized, and top-of-search share. |
 | [**amazon-ads-product-and-asin-performance**](marketing-and-ads/amazon-ads/amazon-ads-product-and-asin-performance/SKILL.md) | Which advertised Amazon products earn their spend, which spend without selling, what shoppers buy instead, and when it's the listing. |
-| [**amazon-ads-new-to-brand-and-halo**](marketing-and-ads/amazon-ads/amazon-ads-new-to-brand-and-halo/SKILL.md) | What Amazon Sponsored Brands, Display, TV and DSP buy beyond ACOS — new-to-brand customers, halo sales, branded searches. |
+| [**amazon-ads-new-to-brand-and-halo-sales**](marketing-and-ads/amazon-ads/amazon-ads-new-to-brand-and-halo-sales/SKILL.md) | What Amazon Sponsored Brands, Display, TV and DSP buy beyond ACOS — new-to-brand customers, halo sales, branded searches. |
 | [**amazon-ads-attribution-and-metrics-audit**](marketing-and-ads/amazon-ads/amazon-ads-attribution-and-metrics-audit/SKILL.md) | Whether Amazon Ads sales and ACOS are comparable and trustworthy — windows, halo and views, currency, restatement, ad share of total sales. |
-| [**amazon-ads-settings-and-structure-audit**](marketing-and-ads/amazon-ads/amazon-ads-settings-and-structure-audit/SKILL.md) | Prices every Amazon Ads setting and structural choice costing money — effective top-of-search bids, self-competition, brand mixing, crowded ad groups. |
+| [**amazon-ads-account-settings-and-structure-audit**](marketing-and-ads/amazon-ads/amazon-ads-account-settings-and-structure-audit/SKILL.md) | Prices every Amazon Ads setting and structural choice costing money — effective top-of-search bids, self-competition, brand mixing, crowded ad groups. |
 | [**amazon-ads-client-report**](marketing-and-ads/amazon-ads/amazon-ads-client-report/SKILL.md) | The monthly Amazon Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached. |
 
 #### SEO deep dives
@@ -174,13 +174,13 @@ Seven organic-search skills in `marketing-and-ads/seo/`, built on Google Search 
 
 | Skill | What it does |
 | --- | --- |
-| [**gsc-search-opportunity-finder**](marketing-and-ads/seo/gsc-search-opportunity-finder/SKILL.md) | The earning view — queries ranking just off page one, pages seen but not clicked, and pages cannibalising each other for the same query, each with the action. |
-| [**content-decay-detector**](marketing-and-ads/seo/content-decay-detector/SKILL.md) | Pages quietly losing organic traffic — whether it's a ranking slip or fewer people searching, and which are worth refreshing first. |
-| [**gsc-ga4-landing-page-performance**](marketing-and-ads/seo/gsc-ga4-landing-page-performance/SKILL.md) | Search to outcome — search clicks and rankings next to engagement, conversions and revenue per landing page. Needs GSC and GA4. |
-| [**gsc-country-device-performance**](marketing-and-ads/seo/gsc-country-device-performance/SKILL.md) | Where and on what — clicks, CTR and position by market and by device, against the site's own average. |
-| [**branded-vs-nonbranded-search-split**](marketing-and-ads/seo/branded-vs-nonbranded-search-split/SKILL.md) | Whether search growth is new reach or just people who already know you — brand vs non-brand share, trend, and new non-brand queries. |
-| [**new-page-indexation-tracker**](marketing-and-ads/seo/new-page-indexation-tracker/SKILL.md) | Whether new pages get seen — days from publish to first impression, first click and a settled ranking, and which pages went nowhere. |
-| [**ai-traffic-vs-organic-report**](marketing-and-ads/seo/ai-traffic-vs-organic-report/SKILL.md) | Traffic from ChatGPT, Perplexity, Gemini and Claude against organic search — sessions, engagement, conversions, revenue. Measures referrals, not citations. GA4 only. |
+| [**google-search-console-keyword-opportunities**](marketing-and-ads/seo/google-search-console-keyword-opportunities/SKILL.md) | The earning view — queries ranking just off page one, pages seen but not clicked, and pages cannibalising each other for the same query, each with the action. |
+| [**content-decay-analysis**](marketing-and-ads/seo/content-decay-analysis/SKILL.md) | Pages quietly losing organic traffic — whether it's a ranking slip or fewer people searching, and which are worth refreshing first. |
+| [**seo-landing-page-performance**](marketing-and-ads/seo/seo-landing-page-performance/SKILL.md) | Search to outcome — search clicks and rankings next to engagement, conversions and revenue per landing page. Needs GSC and GA4. |
+| [**google-search-console-country-and-device-performance**](marketing-and-ads/seo/google-search-console-country-and-device-performance/SKILL.md) | Where and on what — clicks, CTR and position by market and by device, against the site's own average. |
+| [**branded-vs-non-branded-search-traffic**](marketing-and-ads/seo/branded-vs-non-branded-search-traffic/SKILL.md) | Whether search growth is new reach or just people who already know you — brand vs non-brand share, trend, and new non-brand queries. |
+| [**new-page-indexing-tracker**](marketing-and-ads/seo/new-page-indexing-tracker/SKILL.md) | Whether new pages get seen — days from publish to first impression, first click and a settled ranking, and which pages went nowhere. |
+| [**ai-traffic-vs-organic-search-report**](marketing-and-ads/seo/ai-traffic-vs-organic-search-report/SKILL.md) | Traffic from ChatGPT, Perplexity, Gemini and Claude against organic search — sessions, engagement, conversions, revenue. Measures referrals, not citations. GA4 only. |
 
 #### GEO deep dives
 
@@ -188,7 +188,7 @@ Generative engine optimization skills in `marketing-and-ads/geo/`, built on AI-v
 
 | Skill | What it does |
 | --- | --- |
-| [**ai-citation-to-revenue-funnel**](marketing-and-ads/geo/ai-citation-to-revenue-funnel/SKILL.md) | Follows the pages ChatGPT, Perplexity and Gemini cite to AI-referred, organic, referral and direct sessions, Search Console clicks, GA4 key events and the orders, deals or payments behind them — and names the stage where the chain breaks. |
+| [**ai-search-citations-to-revenue**](marketing-and-ads/geo/ai-search-citations-to-revenue/SKILL.md) | Follows the pages ChatGPT, Perplexity and Gemini cite to AI-referred, organic, referral and direct sessions, Search Console clicks, GA4 key events and the orders, deals or payments behind them — and names the stage where the chain breaks. |
 
 ### Sales
 
@@ -214,10 +214,10 @@ Four Shopify-only skills in `ecommerce/shopify/`. Same shape as the ads packs �
 
 | Skill | What it does |
 | --- | --- |
-| [**shopify-store-performance**](ecommerce/shopify/shopify-store-performance/SKILL.md) | The baseline read — the full sales ladder, orders, AOV, refunds vs returns, new vs returning, and which of the three drivers moved revenue. Run this before deciding anything else. |
-| [**shopify-product-and-variant-sales**](ecommerce/shopify/shopify-product-and-variant-sales/SKILL.md) | Which products and variants earn their place — ranked by money and by margin on the right cost basis, with stock-out distortion flagged instead of buried. |
-| [**shopify-inventory-and-stockout-risk**](ecommerce/shopify/shopify-inventory-and-stockout-risk/SKILL.md) | What runs out, when, what it costs, and the date you must order by — plus inventory value split four ways and the cash parked in dead stock. |
-| [**shopify-repeat-purchase-and-retention**](ecommerce/shopify/shopify-repeat-purchase-and-retention/SKILL.md) | Which campaign and which first offer bought customers who came back — cohorts cut by UTM and discount status, with open cohorts excluded from every comparison. |
+| [**shopify-sales-report**](ecommerce/shopify/shopify-sales-report/SKILL.md) | The baseline read — the full sales ladder, orders, AOV, refunds vs returns, new vs returning, and which of the three drivers moved revenue. Run this before deciding anything else. |
+| [**shopify-product-and-variant-performance**](ecommerce/shopify/shopify-product-and-variant-performance/SKILL.md) | Which products and variants earn their place — ranked by money and by margin on the right cost basis, with stock-out distortion flagged instead of buried. |
+| [**shopify-inventory-report-and-stockout-forecast**](ecommerce/shopify/shopify-inventory-report-and-stockout-forecast/SKILL.md) | What runs out, when, what it costs, and the date you must order by — plus inventory value split four ways and the cash parked in dead stock. |
+| [**shopify-customer-retention-and-ltv**](ecommerce/shopify/shopify-customer-retention-and-ltv/SKILL.md) | Which campaign and which first offer bought customers who came back — cohorts cut by UTM and discount status, with open cohorts excluded from every comparison. |
 
 ### Capabilities
 
@@ -236,8 +236,8 @@ Shared building blocks. Compose these with any domain skill above.
 
 | Skill | What it does |
 | --- | --- |
-| [**humanizer**](utilities/humanizer/SKILL.md) | Rewrites AI-generated text to remove detectable patterns and add human voice. Also available as the `/humanize` slash command. |
-| [**coupler-live-artifact**](utilities/coupler-live-artifact/SKILL.md) | Builds a live Cowork artifact — a persistent, re-openable HTML widget backed by a Coupler.io dataflow that auto-refreshes (live dashboards, daily-check pages, data explorers). |
+| [**humanizer-remove-ai-writing-patterns**](utilities/humanizer-remove-ai-writing-patterns-remove-ai-writing-patterns/SKILL.md) | Rewrites AI-generated text to remove detectable patterns and add human voice. Also available as the `/humanize` slash command. |
+| [**coupler-io-live-dashboard**](utilities/coupler-io-live-dashboard/SKILL.md) | Builds a live Cowork artifact — a persistent, re-openable HTML widget backed by a Coupler.io dataflow that auto-refreshes (live dashboards, daily-check pages, data explorers). |
 
 ---
 
@@ -297,8 +297,8 @@ Each business function is its own plugin, so you install only what you need. Ava
 | `coupler-ecommerce` | ecom-analytics |
 | `coupler-marketing-ads` | marketing-analytics, ppc-analytics, + the 8 Google Ads, 11 Meta / Facebook Ads, 11 TikTok Ads, 11 Microsoft Ads, 10 LinkedIn Ads and 10 Amazon Ads deep dives, + the 7 SEO skills and 1 GEO skill |
 | `coupler-capability` | get-started, create-dataflow, google-ads-custom-gaql, generate-data-set-context, refine-prompt, report-generation |
-| `coupler-utilities` | coupler-live-artifact |
-| `humanizer` | humanizer (+ `/humanize` command) |
+| `coupler-utilities` | coupler-io-live-dashboard |
+| `humanizer` | humanizer-remove-ai-writing-patterns (+ `/humanize` command) |
 
 Plugin skills are namespaced by their plugin, so they can be invoked explicitly as `/coupler-finance:finance-analytics`. Most of them are model-invoked too — Claude reaches for them when the request matches their description. If the install summary says `Run /reload-plugins to activate.`, run that.
 

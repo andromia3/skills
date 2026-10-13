@@ -212,9 +212,9 @@ campaigns found at full budget, **and the dataset and account timezone.**
 
 | Go here instead when | Skill |
 |---|---|
-| The question is performance, not spend | `amazon-ads-performance-review` |
-| Bids or targets limit delivery | `amazon-ads-targeting-analysis` |
-| The money should come from waste | `amazon-ads-waste-and-scale` |
+| The question is performance, not spend | `amazon-ads-performance-report` |
+| Bids or targets limit delivery | `amazon-ads-keyword-and-product-targeting` |
+| The money should come from waste | `amazon-ads-wasted-spend-and-scaling` |
 | A product behind the campaign is out of stock | `amazon-ads-product-and-asin-performance` |
 | Budget spans several ad platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |

@@ -9,7 +9,7 @@ metadata:
     - Google Ads
 ---
 
-# Google Ads Custom GAQL
+# Google Ads Custom Query (GAQL) Source
 
 You configure Custom GAQL sources on Coupler.io dataflows. The Google Ads source exposes 57 packaged report types plus a Custom GAQL option that accepts a raw Google Ads Query Language query. Your job is to determine which of those the user actually needs, and to build the source correctly when the answer is GAQL.
 
@@ -152,7 +152,7 @@ If a plain Append or Join covers it, that's available in the dataset step and is
 
 Confirm the dataflow and dataset, the resource queried, the date window and whether it rolls, and which columns need dividing by 1,000,000. Where you built a combined dataset, say which datasets it draws on and give its `preview_url`.
 
-**This skill configures the source. It does not do the analysis.** Route back to whichever skill asked, or by the user's original question — `google-ads-performance-review`, `google-ads-waste-and-scale`, `google-ads-conversion-tracking-audit` and the rest of the Google Ads pack.
+**This skill configures the source. It does not do the analysis.** Route back to whichever skill asked, or by the user's original question — `google-ads-performance-report`, `google-ads-wasted-spend-and-scaling`, `google-ads-conversion-tracking-audit` and the rest of the Google Ads pack.
 
 ## Error Handling
 

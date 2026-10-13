@@ -8,7 +8,7 @@ metadata:
   sources: []
 ---
 
-# Report Generation
+# Business Report Writer
 
 Produce a structured, decision-ready report from analysis output, then validate it before delivery. The skill has two phases: **Phase 1 drafts the report**, **Phase 2 checks it**. Run both, in order, every time. The skill is industry-agnostic — it formats and verifies findings; it does not generate data or analysis. The data and analysis come from the domain bundle loaded alongside (e.g. `marketing-analytics`, `ecom-analytics`, `finance-analytics`, `sales-analytics`).
 

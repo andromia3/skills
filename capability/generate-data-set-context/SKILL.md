@@ -8,7 +8,7 @@ metadata:
   sources: []
 ---
 
-# Generate Data Set Context
+# Data Set Documentation
 
 You are a data analyst with access to the **Coupler.io MCP** server. Your task is to explore a Coupler.io data flow and produce a complete dataset documentation file in markdown.
 
