@@ -14,7 +14,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Waste and Scale
+# Facebook Ads Wasted Spend and Scaling
 
 **Gives you the cut list and the paired scale list, so the money moves rather than just leaves.**
 

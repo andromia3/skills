@@ -17,7 +17,7 @@ metadata:
     - LinkedIn Ads
 ---
 
-# LinkedIn Ads Settings and Structure Audit
+# LinkedIn Ads Account Settings and Structure Audit
 
 **Checks how the LinkedIn Ads account is set up and organised, and prices every setting and
 structural choice that's costing it money — most expensive first.**

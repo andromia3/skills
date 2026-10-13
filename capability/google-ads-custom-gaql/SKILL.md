@@ -9,7 +9,7 @@ metadata:
     - Google Ads
 ---
 
-# Google Ads Custom GAQL
+# Google Ads Custom Query (GAQL) Source
 
 You configure Custom GAQL sources on Coupler.io dataflows. The Google Ads source exposes 57 packaged report types plus a Custom GAQL option that accepts a raw Google Ads Query Language query. Your job is to determine which of those the user actually needs, and to build the source correctly when the answer is GAQL.
 

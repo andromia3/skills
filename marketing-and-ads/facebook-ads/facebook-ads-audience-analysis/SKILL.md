@@ -15,7 +15,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Audience Analysis
+# Facebook Ads Audience Targeting Analysis
 
 **Tells you which audiences earn their spend, and which ones you are paying twice to reach.**
 

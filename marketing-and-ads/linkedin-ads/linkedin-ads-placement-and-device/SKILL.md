@@ -15,7 +15,7 @@ metadata:
     - LinkedIn Ads
 ---
 
-# LinkedIn Ads Placement and Device
+# LinkedIn Ads Placement and Device Breakdown
 
 **Tells you what LinkedIn Ads spend earns on LinkedIn against off it on the Audience Network, by
 placement and by device — and what to switch off or shift.**

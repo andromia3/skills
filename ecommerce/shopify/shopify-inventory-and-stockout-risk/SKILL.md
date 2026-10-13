@@ -15,7 +15,7 @@ metadata:
     - Shopify
 ---
 
-# Shopify Inventory and Stockout Risk
+# Shopify Inventory Report and Stockout Forecast
 
 **Turns Shopify's stock numbers into a date you have to order by and a figure for what happens if you
 don't — with anything already too late to save flagged as such.**

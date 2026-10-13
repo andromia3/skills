@@ -15,7 +15,7 @@ metadata:
     - LinkedIn Ads
 ---
 
-# LinkedIn Ads Lead Gen Form Performance
+# LinkedIn Lead Gen Form Performance
 
 **Tells you which LinkedIn lead gen forms and campaigns produce leads at a cost worth paying,
 where people open the form and walk away, and — from the leads' own form answers — who the

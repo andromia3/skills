@@ -16,7 +16,7 @@ metadata:
     - LinkedIn Ads
 ---
 
-# LinkedIn Ads Waste and Scale
+# LinkedIn Ads Wasted Spend and Scaling
 
 **Finds the LinkedIn Ads spend that isn't earning, proves it's past the point of being early, and
 says where that money should go instead — as one budget-neutral move.**

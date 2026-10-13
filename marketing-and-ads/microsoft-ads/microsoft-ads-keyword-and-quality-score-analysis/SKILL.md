@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Keyword and Quality Score Analysis
+# Microsoft Bing Ads Keyword and Quality Score Analysis
 
 **Tells you which Microsoft Ads keywords earn their money, which are paying too much for the same
 clicks, and what to fix to bring the price down.**

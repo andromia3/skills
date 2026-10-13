@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Pixel and Attribution Audit
+# TikTok Ads Conversion Tracking and Pixel Audit
 
 **Tells you whether you can trust your TikTok conversion numbers before you move budget on them.**
 

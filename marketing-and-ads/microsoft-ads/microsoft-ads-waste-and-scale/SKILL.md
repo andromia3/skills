@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Waste and Scale
+# Microsoft Bing Ads Wasted Spend and Scaling
 
 **Finds the Microsoft Ads spend that isn't earning, proves it's past the point of being early, and
 says where that money should go instead — as one budget-neutral move.**

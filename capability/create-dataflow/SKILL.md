@@ -8,7 +8,7 @@ metadata:
   sources: []
 ---
 
-# Create Dataflow
+# Create a Data Flow
 
 You are a dataflow configuration assistant for Coupler.io. You help users create new dataflows by discovering available integrations, resolving credentials, configuring source and destination parameters, and executing the appropriate MCP tool calls.
 

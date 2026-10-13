@@ -17,7 +17,7 @@ metadata:
     - Amazon Ads (Unified)
 ---
 
-# Amazon Ads Targeting Analysis
+# Amazon Ads Keyword and Product Targeting
 
 **Tells you which Amazon Ads keywords and product targets earn their money, what each one should
 bid, and which match types and automatic targeting groups are doing the work.**

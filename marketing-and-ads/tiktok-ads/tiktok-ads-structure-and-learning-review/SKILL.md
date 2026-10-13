@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Structure and Learning Review
+# TikTok Ads Account Structure and Learning Phase Review
 
 **Tells you whether the account is split into more ad groups than its budget can feed, and prices what that costs in delivery.**
 

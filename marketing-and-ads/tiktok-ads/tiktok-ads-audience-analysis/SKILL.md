@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Audience Analysis
+# TikTok Ads Audience Targeting Analysis
 
 **Tells you which audiences earn their spend on TikTok, and whether your targeting is doing any work the creative was not already doing.**
 

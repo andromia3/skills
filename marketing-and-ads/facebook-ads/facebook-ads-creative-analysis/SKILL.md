@@ -15,7 +15,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Creative Analysis
+# Facebook Ads Creative Performance Analysis
 
 **Tells you which ads are earning their spend, and what the next round should look like.**
 

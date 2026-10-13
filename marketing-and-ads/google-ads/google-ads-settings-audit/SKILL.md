@@ -16,7 +16,7 @@ metadata:
     - Google Ads
 ---
 
-# Google Ads Settings Audit
+# Google Ads Account Settings Audit
 
 **Finds the configuration defects that cost money quietly, and puts a spend figure on each one.**
 

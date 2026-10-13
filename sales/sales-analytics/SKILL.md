@@ -13,7 +13,7 @@ metadata:
     - Zoho CRM
 ---
 
-# Sales Analytics
+# Sales Pipeline Analytics
 
 Analyze sales performance using data from Coupler.io dataflows (Salesforce, HubSpot, Pipedrive, Close, Zoho, custom CRMs). This skill guides you through retrieving opportunity/deal data, computing pipeline and conversion metrics, investigating velocity and rep performance, detecting anomalies, and presenting actionable insights a sales leader can act on.
 

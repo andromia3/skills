@@ -19,7 +19,7 @@ metadata:
     - Google Analytics 4 (GA4)
 ---
 
-# AI Traffic vs Organic Report
+# AI Traffic vs Organic Search Report
 
 **Shows how much traffic answer engines send your site, how it compares to normal search, and
 whether it's growing.**

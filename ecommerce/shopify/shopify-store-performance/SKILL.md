@@ -15,7 +15,7 @@ metadata:
     - Shopify
 ---
 
-# Shopify Store Performance
+# Shopify Sales Report
 
 **Tells you what the store sold, what moved, and which of the three reasons behind it you're looking
 at — before anyone spends money reacting to the wrong one.**

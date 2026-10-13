@@ -17,7 +17,7 @@ metadata:
     - Amazon Ads (Unified)
 ---
 
-# Amazon Ads Settings and Structure Audit
+# Amazon Ads Account Settings and Structure Audit
 
 **Checks how the Amazon Ads account is set up and organised, and prices every setting and
 structural choice that's costing it money — most expensive first.**

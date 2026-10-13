@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Creative Analysis
+# TikTok Ads Creative Performance Analysis
 
 **Tells you which videos are earning their spend, where the losing ones lose people, and what the next round should be.**
 

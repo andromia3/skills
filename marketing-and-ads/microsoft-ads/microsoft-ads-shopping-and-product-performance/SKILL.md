@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Shopping and Product Performance
+# Microsoft Bing Shopping Ads Product Performance
 
 **Tells you which products Microsoft Shopping campaigns make money on, which ones spend without
 selling, which never show at all — and what to change in the product groups.**

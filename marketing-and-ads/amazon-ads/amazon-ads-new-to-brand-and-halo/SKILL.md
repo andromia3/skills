@@ -16,7 +16,7 @@ metadata:
     - Amazon Ads (Unified)
 ---
 
-# Amazon Ads New-to-Brand and Halo
+# Amazon Ads New-to-Brand and Halo Sales
 
 **Tells you what Sponsored Brands, Sponsored Display, Sponsored TV and DSP are worth beyond their
 ACOS — the new customers they bring, the halo sales across the range, and the shopping behaviour

@@ -17,7 +17,7 @@ metadata:
     - Amazon Ads (Unified)
 ---
 
-# Amazon Ads Placement and Search Share
+# Amazon Ads Placement and Top-of-Search Share
 
 **Tells you where on Amazon the ads earn — top of search, the rest of search, product pages — how
 much of the top of search the account wins, and what placement adjustments to set.**

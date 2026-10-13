@@ -16,7 +16,7 @@ metadata:
     - Amazon Ads (Unified)
 ---
 
-# Amazon Ads Performance Review
+# Amazon Ads Performance Report
 
 **Tells you what the Amazon Ads account did, why it changed, and what to do about it — with a number
 behind every recommendation.**

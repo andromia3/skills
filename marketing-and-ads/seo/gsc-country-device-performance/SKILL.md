@@ -19,7 +19,7 @@ metadata:
     - Google Search Console
 ---
 
-# GSC Country & Device Performance
+# Google Search Console Country and Device Performance
 
 **Shows how your organic search performs by country and by device, and where each one lags the rest
 of the site.**

@@ -17,7 +17,7 @@ metadata:
     - Amazon Ads (Unified)
 ---
 
-# Amazon Ads Waste and Scale
+# Amazon Ads Wasted Spend and Scaling
 
 **Finds the Amazon Ads search terms and targets spending without selling, builds safe negatives,
 harvests the winners into their own targeting, and moves the money — as one budget-neutral plan.**

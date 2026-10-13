@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Competitive Position
+# Microsoft Bing Ads Impression Share and Auction Insights
 
 **Tells you where the Microsoft Ads account stands in the auction — how much of the available demand
 it wins, how often it shows at the top, how much of the clicking market it takes — and where

@@ -16,7 +16,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Settings Audit
+# Facebook Ads Account Settings Audit
 
 **Finds the toggles nobody chose, and prices each one in the spend running through it.**
 

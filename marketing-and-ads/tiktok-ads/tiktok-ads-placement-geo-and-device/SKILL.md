@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Placement, Geo and Device
+# TikTok Ads Placement, Location and Device Breakdown
 
 **Tells you where and when your money is actually going, and what each of those places is worth.**
 

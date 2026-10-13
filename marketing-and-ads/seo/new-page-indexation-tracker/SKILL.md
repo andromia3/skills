@@ -19,7 +19,7 @@ metadata:
     - Google Search Console
 ---
 
-# New Page Indexation Tracker
+# New Page Indexing Tracker
 
 **Shows how long your new pages take to get seen by Google and start earning traffic — and which
 ones never do.**

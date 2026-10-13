@@ -15,7 +15,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Client Report
+# Microsoft Bing Ads Client Report
 
 **Writes the monthly Microsoft Ads report a client can read — scored against the targets they
 agreed, with misses explained honestly and next month's plan attached.**

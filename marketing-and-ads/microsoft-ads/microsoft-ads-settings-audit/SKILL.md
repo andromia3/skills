@@ -17,7 +17,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Settings Audit
+# Microsoft Bing Ads Account Settings Audit
 
 **Checks how the Microsoft Ads account is configured and prices every setting that's costing it
 money — most expensive first.**

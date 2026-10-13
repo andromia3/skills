@@ -15,7 +15,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Pixel and Attribution Audit
+# Facebook Ads Conversion Tracking and Pixel Audit
 
 **Tells you whether you can trust your Meta conversion numbers — before you move budget on them.**
 

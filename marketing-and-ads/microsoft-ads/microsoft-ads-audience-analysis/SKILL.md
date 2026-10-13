@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Audience Analysis
+# Microsoft Bing Ads Audience Targeting Analysis
 
 **Tells you which Microsoft Ads audiences earn their spend — remarketing, in-market, age and gender,
 and the LinkedIn profile cuts by company, industry and job function — and what bid each deserves.**

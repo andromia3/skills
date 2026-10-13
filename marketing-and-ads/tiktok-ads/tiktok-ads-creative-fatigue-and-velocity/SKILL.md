@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Creative Fatigue and Velocity
+# TikTok Ads Creative Fatigue and Refresh Cadence
 
 **Tells you which videos are dying, how long they have left, and how many new ones a month this account needs to keep up.**
 

@@ -14,7 +14,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Performance Review
+# TikTok Ads Performance Report
 
 **Tells you what moved in the account, which campaigns moved it, and how much of the change each one caused.**
 

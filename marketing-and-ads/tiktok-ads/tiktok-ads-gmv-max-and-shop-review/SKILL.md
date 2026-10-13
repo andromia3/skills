@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads GMV Max and Shop Review
+# TikTok Shop and GMV Max Review
 
 **Tells you what GMV Max is actually buying, whether it is taking sales your other campaigns were already making, and which products are carrying it.**
 

@@ -19,7 +19,7 @@ metadata:
     - Google Search Console
 ---
 
-# Content Decay Detector
+# Content Decay Analysis
 
 **Finds pages that are slowly losing traffic, and tells you which ones are worth updating.**
 

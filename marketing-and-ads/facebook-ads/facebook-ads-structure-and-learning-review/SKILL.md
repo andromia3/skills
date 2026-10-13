@@ -15,7 +15,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Structure and Learning Review
+# Facebook Ads Account Structure and Learning Phase Review
 
 **Tells you whether the account is cut into too many pieces to work, and what that is costing you.**
 

@@ -15,7 +15,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Performance Review
+# Microsoft Bing Ads Performance Report
 
 **Tells you what the account did, why it changed, and what to do about it — with a number behind
 every recommendation.**

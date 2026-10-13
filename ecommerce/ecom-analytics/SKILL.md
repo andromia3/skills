@@ -14,7 +14,7 @@ metadata:
     - Klaviyo
 ---
 
-# Ecom Analytics
+# Ecommerce Analytics
 
 Analyze e-commerce performance using data from Coupler.io dataflows (Shopify, WooCommerce, BigCommerce, Magento, GA4, Stripe, Klaviyo, etc.). This skill guides you through retrieving order/session data, computing funnel and revenue metrics, detecting anomalies, and presenting actionable insights an ecom operator can act on.
 

@@ -15,7 +15,7 @@ metadata:
     - LinkedIn Ads
 ---
 
-# LinkedIn Ads Performance Review
+# LinkedIn Ads Performance Report
 
 **Tells you what the LinkedIn Ads account did, why it changed, and what to do about it — with a
 number behind every recommendation.**

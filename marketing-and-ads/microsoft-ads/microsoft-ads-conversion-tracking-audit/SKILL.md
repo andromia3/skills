@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Conversion Tracking Audit
+# Microsoft Bing Ads Conversion Tracking Audit
 
 **Tells you whether the Microsoft Ads conversion numbers can be trusted before anyone moves money on
 them — and, where they can't, how much spend the problem touches.**

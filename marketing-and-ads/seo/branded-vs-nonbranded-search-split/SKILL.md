@@ -19,7 +19,7 @@ metadata:
     - Google Search Console
 ---
 
-# Branded vs Non-Branded Search Split
+# Branded vs Non-Branded Search Traffic
 
 **Splits your organic search into people searching your name and people finding you cold — and tells
 you which one is actually growing.**

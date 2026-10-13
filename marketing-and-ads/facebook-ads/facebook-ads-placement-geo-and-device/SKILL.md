@@ -15,7 +15,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Placement Geo and Device
+# Facebook Ads Placement, Location and Device Breakdown
 
 **Tells you where your Meta budget is actually going, and which of those places is worth it.**
 

@@ -19,7 +19,7 @@ metadata:
     - Google Search Console
 ---
 
-# GSC Search Opportunity Finder
+# Google Search Console Keyword Opportunities
 
 **Finds where you can get more organic clicks from Google, and tells you what to change to
 get them.**

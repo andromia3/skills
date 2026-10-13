@@ -16,7 +16,7 @@ metadata:
     - Shopify
 ---
 
-# Shopify Repeat Purchase and Retention
+# Shopify Customer Retention and LTV
 
 **Tells you which campaign and which first offer bought customers who came back — at a granularity
 Shopify's cohort report stops short of, on a window that makes cohorts of different ages actually

@@ -33,7 +33,7 @@ metadata:
     - Paddle
 ---
 
-# AI Citation to Revenue Funnel
+# AI Search Citations to Revenue
 
 **Shows which of your pages and products AI engines cite, what traffic those pages get from AI
 assistants, Google, referrals and direct visits, whether those visits trigger your key events and turn

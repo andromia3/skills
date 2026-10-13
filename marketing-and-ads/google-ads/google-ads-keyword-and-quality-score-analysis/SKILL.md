@@ -15,7 +15,7 @@ metadata:
     - Google Ads
 ---
 
-# Google Ads Keyword And Quality Score Analysis
+# Google Ads Keyword and Quality Score Analysis
 
 **Shows which keywords deserve more money, and which are quietly overcharging you for the same
 clicks.**

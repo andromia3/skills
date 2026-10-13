@@ -15,7 +15,7 @@ metadata:
     - Google Ads
 ---
 
-# Google Ads PMax Transparency
+# Google Ads Performance Max (PMax) Analysis
 
 **Gets as far inside Performance Max as the data honestly allows, and tells you exactly where that
 stops.**

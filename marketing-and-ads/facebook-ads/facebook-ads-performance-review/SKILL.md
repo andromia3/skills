@@ -14,7 +14,7 @@ metadata:
     - Facebook Ads (Meta Ads)
 ---
 
-# Facebook Ads Performance Review
+# Facebook Ads Performance Report
 
 **Tells you what actually moved in the Meta account this period, and which campaigns moved it.**
 

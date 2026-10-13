@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Geo, Device and Dayparting
+# Microsoft Bing Ads Location, Device and Dayparting
 
 **Tells you where, on what device and at what hour Microsoft Ads spend earns — and what bid
 adjustment or schedule each deserves.**

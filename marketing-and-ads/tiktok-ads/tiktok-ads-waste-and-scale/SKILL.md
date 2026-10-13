@@ -15,7 +15,7 @@ metadata:
     - TikTok Ads
 ---
 
-# TikTok Ads Waste and Scale
+# TikTok Ads Wasted Spend and Scaling
 
 **Tells you what to turn off, what to fund with the money, and what the swap is worth — as one decision, because it is one decision.**
 

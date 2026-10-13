@@ -15,7 +15,7 @@ metadata:
     - Shopify
 ---
 
-# Shopify Product and Variant Sales
+# Shopify Product and Variant Performance
 
 **Tells you which products and variants earn their place in the catalogue — ranked by money, with
 margin on the right cost basis, and with the stock-out distortion called out instead of buried.**

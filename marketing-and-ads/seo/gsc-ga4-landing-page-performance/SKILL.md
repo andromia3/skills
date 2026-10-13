@@ -20,7 +20,7 @@ metadata:
     - Google Analytics 4 (GA4)
 ---
 
-# GSC + GA4 Landing Page Performance
+# SEO Landing Page Performance (Search Console + GA4)
 
 **Shows which landing pages bring in organic search traffic, and what that traffic does after it
 arrives — clicks and rankings on one side, engagement, key events and revenue on the other.**

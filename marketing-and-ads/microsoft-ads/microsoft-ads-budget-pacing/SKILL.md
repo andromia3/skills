@@ -16,7 +16,7 @@ metadata:
     - Microsoft Ads (Bing Ads)
 ---
 
-# Microsoft Ads Budget Pacing
+# Microsoft Bing Ads Budget Pacing
 
 **Tells you where Microsoft Ads spend lands by month end, which campaigns are held back by budget,
 and whether more money would buy anything at all.**

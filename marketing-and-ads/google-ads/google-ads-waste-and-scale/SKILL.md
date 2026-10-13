@@ -15,7 +15,7 @@ metadata:
     - Google Ads
 ---
 
-# Google Ads Waste And Scale
+# Google Ads Wasted Spend and Scaling
 
 **Produces the two lists that change an account: what to stop paying for, and where that money should
 go instead.**

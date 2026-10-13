@@ -16,7 +16,7 @@ metadata:
     - LinkedIn Ads
 ---
 
-# LinkedIn Ads Creative Analysis
+# LinkedIn Ads Creative Performance Analysis
 
 **Tells you which LinkedIn Ads creatives win, judged within their own format, what the winners have
 in common, and what the next round should look like.**

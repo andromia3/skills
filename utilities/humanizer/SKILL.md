@@ -15,7 +15,7 @@ metadata:
   sources: []
 ---
 
-# Humanizer
+# Humanizer: Remove AI Writing Patterns
 
 Strip AI writing patterns. Add human voice. Based on Wikipedia's "Signs of AI writing" catalog maintained by WikiProject AI Cleanup.
 
