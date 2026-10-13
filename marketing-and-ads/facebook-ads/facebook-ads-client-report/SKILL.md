@@ -204,10 +204,10 @@ single thing that makes the second month better than the first.
 
 ## Related skills
 
-- `facebook-ads-pixel-and-attribution-audit` — run before the first report for a new client. Every
+- `facebook-ads-conversion-tracking-and-pixel-audit` — run before the first report for a new client. Every
   number in the pack depends on it.
-- `facebook-ads-performance-review` — the internal read; this is the external document.
-- `facebook-ads-waste-and-scale` — where next month's commitments come from.
+- `facebook-ads-performance-report` — the internal read; this is the external document.
+- `facebook-ads-wasted-spend-and-scaling` — where next month's commitments come from.
 - `facebook-ads-budget-pacing` — the spend section's underlying analysis.
 - `ppc-analytics` — where the pack covers more than Meta.
 

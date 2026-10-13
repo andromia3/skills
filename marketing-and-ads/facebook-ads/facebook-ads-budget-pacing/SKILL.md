@@ -177,21 +177,21 @@ writing, in the closing block.
 
 ## Related skills
 
-- `facebook-ads-waste-and-scale` — when the question is which lines deserve the money, not whether
+- `facebook-ads-wasted-spend-and-scaling` — when the question is which lines deserve the money, not whether
   the total lands.
-- `facebook-ads-structure-and-learning-review` — when ad sets cannot spend because the account is
+- `facebook-ads-account-structure-and-learning-phase-review` — when ad sets cannot spend because the account is
   fragmented.
-- `facebook-ads-performance-review` — the efficiency baseline this reads against.
-- `facebook-ads-settings-audit` — when a spend limit or bid cap is the actual constraint.
+- `facebook-ads-performance-report` — the efficiency baseline this reads against.
+- `facebook-ads-account-settings-audit` — when a spend limit or bid cap is the actual constraint.
 - `ppc-analytics` — portfolio pacing across platforms.
 
 ## Next Question (REQUIRED)
 
 - Underspending with low frequency → "Budget is not your constraint — those ad sets cannot find
   delivery. Want me to check whether the account is cut into too many pieces? —
-  `facebook-ads-structure-and-learning-review`."
+  `facebook-ads-account-structure-and-learning-phase-review`."
 - On pace but cost per result climbing → "You will land on budget, but it is buying less than last
-  month. Want the waste and scale pass? — `facebook-ads-waste-and-scale`. I can chart the pacing
+  month. Want the waste and scale pass? — `facebook-ads-wasted-spend-and-scaling`. I can chart the pacing
   curve first if you need to show finance."
 - Capped winners identified → "Three ad sets are capped and beating target. Shall I size the headroom
-  properly before you raise them? — `facebook-ads-waste-and-scale`."
+  properly before you raise them? — `facebook-ads-wasted-spend-and-scaling`."

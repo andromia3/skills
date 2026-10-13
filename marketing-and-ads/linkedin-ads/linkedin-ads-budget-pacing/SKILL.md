@@ -214,9 +214,9 @@ full budget, end dates, **and the dataset and account timezone.**
 
 | Go here instead when | Skill |
 |---|---|
-| The question is performance, not spend | `linkedin-ads-performance-review` |
-| A bid or audience setting limits delivery | `linkedin-ads-settings-and-structure-audit` |
-| The money should come from waste | `linkedin-ads-waste-and-scale` |
+| The question is performance, not spend | `linkedin-ads-performance-report` |
+| A bid or audience setting limits delivery | `linkedin-ads-account-settings-and-structure-audit` |
+| The money should come from waste | `linkedin-ads-wasted-spend-and-scaling` |
 | The audience is saturated | `linkedin-ads-creative-fatigue` |
 | Budget spans several ad platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |

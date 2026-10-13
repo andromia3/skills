@@ -219,12 +219,12 @@ which is the difference between a three-call run and a five-call one.
 
 | Go here instead when | Skill |
 |---|---|
-| The question is what the account did and why, not where the spend lands | `google-ads-performance-review` |
-| The budget needs freeing up rather than moving | `google-ads-waste-and-scale` |
+| The question is what the account did and why, not where the spend lands | `google-ads-performance-report` |
+| The budget needs freeing up rather than moving | `google-ads-wasted-spend-and-scaling` |
 | The efficiency case rests on conversion numbers that are doubted | `google-ads-conversion-tracking-audit` |
-| Budgets or bid strategies look misconfigured rather than mis-sized | `google-ads-settings-audit` |
+| Budgets or bid strategies look misconfigured rather than mis-sized | `google-ads-account-settings-audit` |
 | The pacing story is going to a client | `google-ads-client-report` |
-| No packaged report type carries the metric you need | `google-ads-custom-gaql` |
+| No packaged report type carries the metric you need | `google-ads-custom-query` |
 | Platforms other than Google Ads are in scope | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

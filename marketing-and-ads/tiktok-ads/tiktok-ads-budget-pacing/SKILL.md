@@ -201,11 +201,11 @@ before writing, in the closing block.
 
 ## Related skills
 
-- `tiktok-ads-waste-and-scale` — where the reallocation should go once the money is freed.
-- `tiktok-ads-structure-and-learning-review` — when several ad groups are stuck for the same reason
+- `tiktok-ads-wasted-spend-and-scaling` — where the reallocation should go once the money is freed.
+- `tiktok-ads-account-structure-and-learning-phase-review` — when several ad groups are stuck for the same reason
   and the account shape is the cause.
-- `tiktok-ads-performance-review` — the baseline read this one paces against.
-- `tiktok-ads-creative-fatigue-and-velocity` — when underspend is really an ad that stopped earning
+- `tiktok-ads-performance-report` — the baseline read this one paces against.
+- `tiktok-ads-creative-fatigue-and-refresh-cadence` — when underspend is really an ad that stopped earning
   impressions.
 
 ## Next Question (REQUIRED)
@@ -213,6 +213,6 @@ before writing, in the closing block.
 - Projected under → "You will land about £7,400 short, and most of it is three ad groups that cannot
   win delivery. Want me to check whether the creative or the audience is the constraint?"
 - Projected over → "You are on course for 14% over. Want me to find the cuts that fund it from inside
-  the account? — `tiktok-ads-waste-and-scale`."
+  the account? — `tiktok-ads-wasted-spend-and-scaling`."
 - On plan → "Pacing is fine at 2% under. Want me to check whether the money is going to the right
   ad groups rather than just going out?"
