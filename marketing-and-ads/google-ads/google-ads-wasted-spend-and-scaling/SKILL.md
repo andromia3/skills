@@ -92,7 +92,7 @@ criterion. A dataflow takes unlimited sources, so these get added alongside what
 there, warehouse-sourced or not. The only real blocker is a missing Google Ads credential, which the
 user connects. Where a packaged report type doesn't carry the column in the shape you need — impression
 share the account's report doesn't return, an unusual segment on search terms — Custom GAQL pulls
-exactly the fields named. Route to `google-ads-custom-query`. **Don't write the query here.**
+exactly the fields named. Route to `google-ads-custom-gaql`. **Don't write the query here.**
 
 **Early exit.** Campaign-level only: give the over-target campaigns and the headroom if impression
 share exists, say what the missing tables cost, name which source would supply each, stop. Don't
@@ -279,7 +279,7 @@ re-proposing something the user already rejected.
 | The question is what the account did and why | `google-ads-performance-report` |
 | The waste is inside Performance Max, where search terms don't reach | `google-ads-performance-max-analysis` |
 | The proposal is going to a client | `google-ads-client-report` |
-| No packaged report type carries the metric you need | `google-ads-custom-query` |
+| No packaged report type carries the metric you need | `google-ads-custom-gaql` |
 | Platforms other than Google Ads are in scope | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

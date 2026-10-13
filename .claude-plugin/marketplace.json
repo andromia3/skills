@@ -131,7 +131,7 @@
       "skills": [
         "./capability/get-started",
         "./capability/create-dataflow",
-        "./capability/google-ads-custom-query",
+        "./capability/google-ads-custom-gaql",
         "./capability/generate-data-set-context",
         "./capability/refine-prompt",
         "./capability/report-generation"
@@ -145,7 +145,7 @@
       "category": "productivity",
       "skills": [
         "./utilities/coupler-io-live-dashboard",
-        "./utilities/humanizer-remove-ai-writing-patterns"
+        "./utilities/humanizer-remove-ai-writing-patterns-remove-ai-writing-patterns"
       ]
     }
   ]

@@ -83,7 +83,7 @@ much of the rest happens, and it's the first thing they hear.
 | Column present | Live | Absent means |
 |---|---|---|
 | Cost + clicks + campaign | Untracked spend — the headline number | No headline. Say so; it's the finding people act on |
-| Conversion action name | Inventory · primary/secondary · duplicates | The default Campaign performance report doesn't carry action names. **Campaign performance with conversion actions name** does, and it's one source away. Ad-group-level action breakdowns need Custom GAQL instead — route to `google-ads-custom-query`. Until one exists these checks can't run, and you **never** report "no duplicates found" |
+| Conversion action name | Inventory · primary/secondary · duplicates | The default Campaign performance report doesn't carry action names. **Campaign performance with conversion actions name** does, and it's one source away. Ad-group-level action breakdowns need Custom GAQL instead — route to `google-ads-custom-gaql`. Until one exists these checks can't run, and you **never** report "no duplicates found" |
 | Final URL / landing page | Tagging and UTM consistency | Tagging unchecked; any channel split built on those UTMs is unverified |
 | Conversion lag / days-to-conversion | Measured lag | 72h placeholder, labelled an assumption |
 | An independent source (Analytics, store, CRM) | Directional cross-check | Platform figures only |
@@ -218,7 +218,7 @@ cheaper.
 | Untracked spend is concentrated in Performance Max | `google-ads-performance-max-analysis` |
 | The pacing verdict depends on these numbers | `google-ads-budget-pacing` |
 | The findings are going to a client | `google-ads-client-report` |
-| Conversion actions are needed at ad group level | `google-ads-custom-query` |
+| Conversion actions are needed at ad group level | `google-ads-custom-gaql` |
 | Conversions are being summed across ad platforms | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

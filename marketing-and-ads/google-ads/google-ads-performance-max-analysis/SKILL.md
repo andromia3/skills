@@ -235,7 +235,7 @@ break, and they're invisible in the data once the window moves past them.
 | Search terms and negatives are the job | `google-ads-wasted-spend-and-scaling` |
 | PMax spend needs sizing against a budget | `google-ads-budget-pacing` |
 | The PMax story is going to a client | `google-ads-client-report` |
-| No packaged report type carries the metric you need | `google-ads-custom-query` |
+| No packaged report type carries the metric you need | `google-ads-custom-gaql` |
 | Platforms other than Google Ads are in scope | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

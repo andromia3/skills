@@ -1,5 +1,5 @@
 ---
-name: google-ads-custom-query
+name: google-ads-custom-gaql
 description: "Use this skill when the user needs Google Ads data that no packaged report type carries, or asks for a Custom GAQL source. Triggers include: 'I need a Google Ads field that isn't in any report', 'can I get hourly Google Ads data', 'break conversions down by action at ad group level', 'product-level Shopping data', 'write me a GAQL query', 'query the Google Ads API directly', or another Google Ads skill reporting that a metric exists in no report type. Configures the source; the analysis belongs to the skill that asked."
 metadata:
   title: "Google Ads Custom Query (GAQL) Source"

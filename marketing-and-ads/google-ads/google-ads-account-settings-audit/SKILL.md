@@ -226,7 +226,7 @@ intentional choice, and the audit stops being read.
 | The waste is in keywords and search terms, not settings | `google-ads-wasted-spend-and-scaling` |
 | Quality score is the suspected cause of high click costs | `google-ads-keyword-and-quality-score-analysis` |
 | The findings are going to a client | `google-ads-client-report` |
-| No packaged report type carries the metric you need | `google-ads-custom-query` |
+| No packaged report type carries the metric you need | `google-ads-custom-gaql` |
 | Platforms other than Google Ads are in scope | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

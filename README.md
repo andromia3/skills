@@ -67,7 +67,7 @@ Skills are organized by business function - Finance, Sales, Ecommerce, and Marke
 
 #### Google Ads deep dives
 
-Eight Google-Ads-only skills in `marketing-and-ads/google-ads/`. Each one owns a single question and hands off to the others rather than duplicating them — `ppc-analytics` stays the cross-platform paid view. When a request needs a field no packaged report type carries, they route to `capability/google-ads-custom-query`.
+Eight Google-Ads-only skills in `marketing-and-ads/google-ads/`. Each one owns a single question and hands off to the others rather than duplicating them — `ppc-analytics` stays the cross-platform paid view. When a request needs a field no packaged report type carries, they route to `capability/google-ads-custom-gaql`.
 
 | Skill | What it does |
 | --- | --- |
@@ -227,7 +227,7 @@ Shared building blocks. Compose these with any domain skill above.
 | --- | --- |
 | [**get-started**](capability/get-started/SKILL.md) | Onboard a brand-new or empty workspace from zero to the user's own data in the chat — anchor on stated intent, route template-or-scratch, script the guided credential round-trip, build + run the first dataflow, then offer a refresh schedule. |
 | [**create-dataflow**](capability/create-dataflow/SKILL.md) | Configure a Coupler.io dataflow end to end — pick an integration, attach a credential, wire source → destination, and trigger a run. |
-| [**google-ads-custom-query**](capability/google-ads-custom-query/SKILL.md) | Build a Custom GAQL source when no packaged Google Ads report type carries the field — and name the packaged type when one does. Covers resource choice, date macros, and the raw column names and micros that come back. |
+| [**google-ads-custom-gaql**](capability/google-ads-custom-gaql/SKILL.md) | Build a Custom GAQL source when no packaged Google Ads report type carries the field — and name the packaged type when one does. Covers resource choice, date macros, and the raw column names and micros that come back. |
 | [**generate-data-set-context**](capability/generate-data-set-context/SKILL.md) | Produce an AI-readable description for a dataset so future sessions inherit its schema context. |
 | [**refine-prompt**](capability/refine-prompt/SKILL.md) | Sharpen a vague or underspecified analytics request into a detailed, actionable prompt — filling in time period, metrics, data sources, and output format — before analysis. |
 | [**report-generation**](capability/report-generation/SKILL.md) | Industry-agnostic report formatter and validator. Turns analysis output into a structured TL;DR → Metrics → Context → Recommendations → Next Questions report, then runs a Phase 2 validation pass (arithmetic, units, claim-vs-data, logical gates). Compose with a domain skill for domain-flavored reports. |
@@ -236,7 +236,7 @@ Shared building blocks. Compose these with any domain skill above.
 
 | Skill | What it does |
 | --- | --- |
-| [**humanizer-remove-ai-writing-patterns**](utilities/humanizer-remove-ai-writing-patterns/SKILL.md) | Rewrites AI-generated text to remove detectable patterns and add human voice. Also available as the `/humanize` slash command. |
+| [**humanizer-remove-ai-writing-patterns**](utilities/humanizer-remove-ai-writing-patterns-remove-ai-writing-patterns/SKILL.md) | Rewrites AI-generated text to remove detectable patterns and add human voice. Also available as the `/humanize` slash command. |
 | [**coupler-io-live-dashboard**](utilities/coupler-io-live-dashboard/SKILL.md) | Builds a live Cowork artifact — a persistent, re-openable HTML widget backed by a Coupler.io dataflow that auto-refreshes (live dashboards, daily-check pages, data explorers). |
 
 ---
@@ -296,7 +296,7 @@ Each business function is its own plugin, so you install only what you need. Ava
 | `coupler-sales` | sales-analytics |
 | `coupler-ecommerce` | ecom-analytics |
 | `coupler-marketing-ads` | marketing-analytics, ppc-analytics, + the 8 Google Ads, 11 Meta / Facebook Ads, 11 TikTok Ads, 11 Microsoft Ads, 10 LinkedIn Ads and 10 Amazon Ads deep dives, + the 7 SEO skills and 1 GEO skill |
-| `coupler-capability` | get-started, create-dataflow, google-ads-custom-query, generate-data-set-context, refine-prompt, report-generation |
+| `coupler-capability` | get-started, create-dataflow, google-ads-custom-gaql, generate-data-set-context, refine-prompt, report-generation |
 | `coupler-utilities` | coupler-io-live-dashboard |
 | `humanizer` | humanizer-remove-ai-writing-patterns (+ `/humanize` command) |
 

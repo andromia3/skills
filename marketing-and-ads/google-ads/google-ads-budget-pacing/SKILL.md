@@ -224,7 +224,7 @@ which is the difference between a three-call run and a five-call one.
 | The efficiency case rests on conversion numbers that are doubted | `google-ads-conversion-tracking-audit` |
 | Budgets or bid strategies look misconfigured rather than mis-sized | `google-ads-account-settings-audit` |
 | The pacing story is going to a client | `google-ads-client-report` |
-| No packaged report type carries the metric you need | `google-ads-custom-query` |
+| No packaged report type carries the metric you need | `google-ads-custom-gaql` |
 | Platforms other than Google Ads are in scope | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

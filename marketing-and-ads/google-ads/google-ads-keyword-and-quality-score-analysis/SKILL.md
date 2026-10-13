@@ -250,7 +250,7 @@ sibling needs it, and it's what users tire of restating.
 | Funding a winner needs month-end arithmetic | `google-ads-budget-pacing` |
 | The keywords sit inside Performance Max, where they aren't exposed | `google-ads-performance-max-analysis` |
 | The findings are going to a client | `google-ads-client-report` |
-| No packaged report type carries the metric you need | `google-ads-custom-query` |
+| No packaged report type carries the metric you need | `google-ads-custom-gaql` |
 | Platforms other than Google Ads are in scope | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

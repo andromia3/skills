@@ -262,7 +262,7 @@ first.
 | A KPI miss traces to keyword-level cost | `google-ads-keyword-and-quality-score-analysis` |
 | The gap sits inside Performance Max | `google-ads-performance-max-analysis` |
 | An inherited account needs its configuration checked | `google-ads-account-settings-audit` |
-| A figure the report needs isn't in any packaged report type | `google-ads-custom-query` |
+| A figure the report needs isn't in any packaged report type | `google-ads-custom-gaql` |
 | The report needs platforms other than Google Ads | `ppc-analytics` |
 
 ## Next Question (REQUIRED)

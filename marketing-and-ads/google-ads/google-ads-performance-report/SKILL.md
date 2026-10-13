@@ -98,7 +98,7 @@ it is rather than reporting the column as unavailable.
 | Why it's missing | How you can tell | The fix |
 |---|---|---|
 | The report type isn't in the dataflow | Nothing at that grain exists — no search terms anywhere, no keyword rows, no asset groups | Add a Google Ads source with that report type to the same dataflow. A dataflow takes unlimited sources |
-| No report type carries it in the shape you need | The report type is there but the column isn't, or it's a field combination no packaged report groups that way — hourly segments, ad-group-level conversion actions | Custom GAQL, which pulls exactly the fields named. Route to `google-ads-custom-query`; don't hand-write the query here |
+| No report type carries it in the shape you need | The report type is there but the column isn't, or it's a field combination no packaged report groups that way — hourly segments, ad-group-level conversion actions | Custom GAQL, which pulls exactly the fields named. Route to `google-ads-custom-gaql`; don't hand-write the query here |
 | No Google Ads credential | The data reaches Coupler.io through a warehouse or another platform's connector, and no Google Ads source exists in any dataflow | The user connects Google Ads. That's a consent step for them, not a dead end |
 
 **Early exit.** Cost and clicks only, no dates and no campaign type: give the totals, say what the
@@ -244,7 +244,7 @@ another separate stop. Every sibling reads this.
 | The gap sits inside Performance Max | `google-ads-performance-max-analysis` |
 | An inherited account needs its configuration checked | `google-ads-account-settings-audit` |
 | The output is for a client, not the operator | `google-ads-client-report` |
-| No packaged report type carries the metric you need | `google-ads-custom-query` |
+| No packaged report type carries the metric you need | `google-ads-custom-gaql` |
 | Platforms other than Google Ads are in scope | `ppc-analytics` |
 
 ## Next Question (REQUIRED)
