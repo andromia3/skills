@@ -7,9 +7,10 @@ description: >
   "is it my Amazon listing or my ads" — even when the user never says "ASIN". Covers advertised
   products, halo sales and listing problems the ads can't fix. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Product and ASIN Performance"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which advertised Amazon products earn their spend, which spend without selling, what shoppers buy instead, and when it's the listing."
+  short_description: "Shows which advertised Amazon products earn back their ad spend and which ones spend without selling."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)
@@ -210,11 +211,11 @@ ACOS target, **and the dataset and account timezone.**
 
 | Go here instead when | Skill |
 |---|---|
-| The terms each product shows on | `amazon-ads-waste-and-scale` |
-| The bids on each product's targets | `amazon-ads-targeting-analysis` |
-| New-to-brand value of each product's ads | `amazon-ads-new-to-brand-and-halo` |
-| Store-side stock for a Shopify catalogue | `shopify-inventory-and-stockout-risk` |
-| The baseline read comes first | `amazon-ads-performance-review` |
+| The terms each product shows on | `amazon-ads-wasted-spend-and-scaling` |
+| The bids on each product's targets | `amazon-ads-keyword-and-product-targeting` |
+| New-to-brand value of each product's ads | `amazon-ads-new-to-brand-and-halo-sales` |
+| Store-side stock for a Shopify catalogue | `shopify-inventory-report-and-stockout-forecast` |
+| The baseline read comes first | `amazon-ads-performance-report` |
 | Formatting and checking the final report | `report-generation` |
 
 ## Next Question (REQUIRED)

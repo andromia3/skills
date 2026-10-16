@@ -7,9 +7,10 @@ description: >
   ACOS target they missed — even when they never say the word "report". For agencies and in-house
   teams reporting upward. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Client Report"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The monthly Amazon Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached."
+  short_description: "Writes your monthly Amazon Ads report for a client, measured against the targets you agreed, with misses explained and next month's plan."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)
@@ -218,10 +219,10 @@ month doesn't re-ask the KPIs.
 
 | Go here instead when | Skill |
 |---|---|
-| The operator needs the diagnosis, not the client write-up | `amazon-ads-performance-review` |
+| The operator needs the diagnosis, not the client write-up | `amazon-ads-performance-report` |
 | The client's sales numbers are doubted | `amazon-ads-attribution-and-metrics-audit` |
 | Next month's plan needs a budget move sized | `amazon-ads-budget-pacing` |
-| The client asks what Brands and Display are worth | `amazon-ads-new-to-brand-and-halo` |
+| The client asks what Brands and Display are worth | `amazon-ads-new-to-brand-and-halo-sales` |
 | The client report covers several ad platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |
 

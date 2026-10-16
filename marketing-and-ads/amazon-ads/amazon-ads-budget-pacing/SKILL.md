@@ -7,9 +7,10 @@ description: >
   Ads spend check — even when the user never says "pacing". Also use when someone needs to know
   whether more budget on an Amazon campaign would earn it back. Amazon Ads only.
 metadata:
+  title: "Amazon Ads Budget Pacing"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Where Amazon Ads spend lands by month end, which campaigns run out of budget early, portfolio caps, and whether more money would pay back."
+  short_description: "Shows where your Amazon Ads spend will land by month end and which campaigns run out of budget too early."
   sources:
     - Amazon Ads
     - Amazon Ads (Unified)
@@ -211,9 +212,9 @@ campaigns found at full budget, **and the dataset and account timezone.**
 
 | Go here instead when | Skill |
 |---|---|
-| The question is performance, not spend | `amazon-ads-performance-review` |
-| Bids or targets limit delivery | `amazon-ads-targeting-analysis` |
-| The money should come from waste | `amazon-ads-waste-and-scale` |
+| The question is performance, not spend | `amazon-ads-performance-report` |
+| Bids or targets limit delivery | `amazon-ads-keyword-and-product-targeting` |
+| The money should come from waste | `amazon-ads-wasted-spend-and-scaling` |
 | A product behind the campaign is out of stock | `amazon-ads-product-and-asin-performance` |
 | Budget spans several ad platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |

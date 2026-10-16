@@ -7,9 +7,10 @@ description: >
   present a LinkedIn Ads target they missed — even when they never say the word "report". For
   agencies and in-house teams reporting upward. LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Ads Client Report"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "The monthly LinkedIn Ads report a client can read — scored against agreed targets, misses explained honestly, next month's plan attached."
+  short_description: "Writes your monthly LinkedIn Ads report for a client, measured against the targets you agreed, with misses explained and next month's plan."
   sources:
     - LinkedIn Ads
 ---
@@ -210,7 +211,7 @@ month doesn't re-ask the KPIs.
   and it isn't in the dataflow, offer the source; the user picks the dimension in the Coupler
   wizard. Member values are approximate and sum to less than the account total. For lead gen, the
   leads' seniority mix comes from Sponsored leads form answers via
-  `linkedin-ads-lead-gen-form-performance`. Never estimate either.
+  `linkedin-lead-gen-form-performance`. Never estimate either.
 - **A miss is never hidden or softened into a win.** It's reported with its target bar.
 - **No benchmark stands in for a target.** Without targets, the comparison is last month, labelled.
 - **Small numbers aren't trends.** Under about ten conversions, report counts, not cost per
@@ -229,10 +230,10 @@ month doesn't re-ask the KPIs.
 
 | Go here instead when | Skill |
 |---|---|
-| The operator needs the diagnosis, not the client write-up | `linkedin-ads-performance-review` |
+| The operator needs the diagnosis, not the client write-up | `linkedin-ads-performance-report` |
 | The client's conversion numbers are doubted | `linkedin-ads-conversion-tracking-audit` |
 | Next month's plan needs a budget move sized | `linkedin-ads-budget-pacing` |
-| The client asks about lead quality | `linkedin-ads-lead-gen-form-performance` |
+| The client asks about lead quality | `linkedin-lead-gen-form-performance` |
 | The client report covers several ad platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |
 

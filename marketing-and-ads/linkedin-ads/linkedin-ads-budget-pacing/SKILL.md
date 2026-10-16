@@ -7,9 +7,10 @@ description: >
   mid-month LinkedIn Ads spend check — even when the user never says "pacing". Also use when someone
   needs to know whether more budget on a LinkedIn campaign would buy anything. LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Ads Budget Pacing"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Where LinkedIn Ads spend lands by month end, which campaigns spend their full budget, and why the underspenders can't spend."
+  short_description: "Shows where your LinkedIn Ads spend will land by month end and why some campaigns can't spend their budget."
   sources:
     - LinkedIn Ads
 ---
@@ -213,9 +214,9 @@ full budget, end dates, **and the dataset and account timezone.**
 
 | Go here instead when | Skill |
 |---|---|
-| The question is performance, not spend | `linkedin-ads-performance-review` |
-| A bid or audience setting limits delivery | `linkedin-ads-settings-and-structure-audit` |
-| The money should come from waste | `linkedin-ads-waste-and-scale` |
+| The question is performance, not spend | `linkedin-ads-performance-report` |
+| A bid or audience setting limits delivery | `linkedin-ads-account-settings-and-structure-audit` |
+| The money should come from waste | `linkedin-ads-wasted-spend-and-scaling` |
 | The audience is saturated | `linkedin-ads-creative-fatigue` |
 | Budget spans several ad platforms | `ppc-analytics` |
 | Formatting and checking the final report | `report-generation` |

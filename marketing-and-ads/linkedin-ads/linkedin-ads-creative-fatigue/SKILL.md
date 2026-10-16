@@ -8,9 +8,10 @@ description: >
   read; for which LinkedIn creative wins in the first place, use the creative analysis skill.
   LinkedIn Ads only.
 metadata:
+  title: "LinkedIn Ads Creative Fatigue"
   version: 1.0.0
   category: marketing-and-ads
-  short_description: "Which LinkedIn Ads creatives are wearing out, roughly how long each has left, whether it's the audience, and how many new creatives a month."
+  short_description: "Shows which LinkedIn ads are wearing out, how long each one has left, and how many new ads you need each month."
   sources:
     - LinkedIn Ads
 ---
@@ -39,7 +40,7 @@ lead moves, the creative has been wearing out for a while.
 **Read-only on your LinkedIn Ads account.** It never pauses or replaces a creative.
 
 **This is the how-long-has-it-left read.** For which creatives win in the first place, use
-`linkedin-ads-creative-analysis`.
+`linkedin-ads-creative-performance-analysis`.
 
 ## Call budget
 
@@ -219,10 +220,10 @@ Write back: useful creative life measured, the production number, campaigns foun
 
 | Go here instead when | Skill |
 |---|---|
-| Which creatives win in the first place | `linkedin-ads-creative-analysis` |
-| The audience needs widening in settings | `linkedin-ads-settings-and-structure-audit` |
-| Saturation spend needs sizing as waste | `linkedin-ads-waste-and-scale` |
-| Cost per result moved without fatigue signs | `linkedin-ads-performance-review` |
+| Which creatives win in the first place | `linkedin-ads-creative-performance-analysis` |
+| The audience needs widening in settings | `linkedin-ads-account-settings-and-structure-audit` |
+| Saturation spend needs sizing as waste | `linkedin-ads-wasted-spend-and-scaling` |
+| Cost per result moved without fatigue signs | `linkedin-ads-performance-report` |
 | Formatting and checking the final report | `report-generation` |
 
 ## Next Question (REQUIRED)
